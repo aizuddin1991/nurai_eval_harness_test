@@ -1,0 +1,44 @@
+base_url: "https://nur-ai.zetrix.com/"
+run:
+  name: "prod"
+  temperature: 0.0
+  max_tokens: 512
+
+retry:
+  max_attempts: 3
+  backoff_seconds: 2
+
+delays:
+  after_login: 2
+  after_prompt: 1
+
+metrics:
+  similarity_threshold: 0.78
+  use_llm_judge: false
+
+reports:
+  output_dir: "./reports"
+
+selectors:
+  home_page:
+    start_chat:
+      locator: "text=Start Chatting Now"
+  login:
+    username_field:
+      locator: "input[maxlength='50']"               # Unique by maxlength attribute
+    password_field:
+      locator: "input[maxlength='64']"               # Unique by maxlength attribute
+    submit_button:
+      locator: "button.button-3d.bg-green.shadow-green" # Unique by language-agnostic class combination
+  chat_page:
+    prompt_input:
+      locator: "div.right-panel[style*='justify-content'] textarea.el-textarea__inner"
+    prompt_input_followup:
+      locator: "div.chat-input-panel textarea.el-textarea__inner"
+    submit_button:
+      locator: "button.submit-btn-icon[aria-disabled='false']"
+      visible: true
+    return_answer:
+      locator: "div.list-content div.ai-message-container div.markdown-body"
+
+timeout: 50000
