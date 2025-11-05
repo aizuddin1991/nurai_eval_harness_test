@@ -13,7 +13,7 @@ def compute_correctness(gt_answer: str, model_answer: str, config: Dict[str, Any
     Compute correctness score using semantic similarity (or LLM judge if enabled).
     """
     if config["metrics"].get("use_llm_judge", False):
-        # Placeholder: call your judge function here
+        # Placeholder: call judge function here
         score = 0.0
         passed = False
     else:
