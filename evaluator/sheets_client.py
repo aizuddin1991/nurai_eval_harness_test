@@ -10,7 +10,7 @@ def _get_sheet(config: Dict[str, Any]):
     Open the Google Sheet using gspread.
     Assumes you have already set up Google auth (service account or OAuth).
     """
-    gc = gspread.service_account(filename="nuraitest-477116-e4f05a1d9e75.json")
+    gc = gspread.service_account(filename=config["sheets"]["json_key"])
     sheet_id = config["sheets"]["sheet_id"]
     return gc.open_by_key(sheet_id)
 

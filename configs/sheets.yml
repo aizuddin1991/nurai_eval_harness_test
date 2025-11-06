@@ -1,5 +1,6 @@
 sheets:
-  sheet_id: "INPUT GOOGLE SHEET ID HERE"
+  sheet_id: "1Aez24Hs79UdlxwqUpV0-07rEgeK8XmkqebC_2bJTjwk"
+  json_key: "nuraitest-477116-e4f05a1d9e75.json"
   tabs:
     runs: "Runs"
     per_item: "PerItem"

@@ -30,15 +30,25 @@ git clone https://github.com/aizuddin1991/nurai_eval_harness_test.git
 ```
 2. Prepare python dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.
+playwright install
 ```
-3. Configure environment
-    - Copy .env.template and replace with necessary credentials for NurAI
-    - update /configs/sheets.yml with the necessary Google Sheet ID and tab names.
-    - ***Prepare Google Sheets template beforehande before running this program***
+
+3. Prepare Google Sheets API credentials
+   - Create a Google Cloud project and enable the Google Sheets API
+   - Create a service account and download the JSON key file
+   - Save the JSON key locally (e.g., service_account.json)
+   - Important: Share your target Google Sheet with the service account email and set its permission to Editor
+
+4. Configure environment
+    - Copy .env.template and replace with necessary credentials for NurAI. change the filename to .env.
+    - ***Prepare Google Sheets template beforehand before running this program***
+    - - update /configs/sheets.yml with the necessary Google Sheet ID and tab names.
+
 ```yaml
 sheets:
   sheet_id: "INPUT GOOGLE SHEET ID HERE"
+  json_key: "INPUT JSON KEY FILENAME HERE"
   tabs:
     runs: "Runs"
     per_item: "PerItem"
