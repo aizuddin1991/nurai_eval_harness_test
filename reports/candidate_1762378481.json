@@ -1,0 +1,852 @@
+[
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q001",
+    "config": "candidate",
+    "model_answer": "Maksud Islam dari segi bahasa dan istilah:\n\nDari segi bahasa:\nIslam berasal daripada kata dasar \u201c\u0633\u0644\u0645\u201d (salama) yang membawa maksud penyerahan, ketaatan, kedamaian, dan keselamatan. Istilah \u201cIslam\u201d itu sendiri bermaksud \u201cpenyerahan diri\u201d atau \u201ckepatuhan\u201d kepada Allah SWT1.\n\nDari segi istilah:\nIslam ditakrifkan sebagai \u201cpengabdian dan penyerahan diri kepada Allah Subhanahu Wa Ta\u2019ala (SWT) dengan mentaati segala perintah-Nya dan menjauhi larangan-Nya seperti yang terkandung dalam Al-Quran dan hadis Nabi Muhammad SAW\u201d1.\n\nIslam juga merangkumi dua asas utama:\n\nRukun Islam (amalan praktikal seperti solat, puasa, dll).\nRukun Iman (kepercayaan asas dalam akidah)1.\n\nRingkasnya, Islam bukan sekadar agama ritual, tetapi cara hidup yang menyeluruh berdasarkan penyerahan diri kepada Allah SWT.\n\nRujukan:\n\nPanduan Bimbingan Fardhu Ain oleh PERKIM1.",
+    "latency_ms": 31292,
+    "correctness": 0.8191984295845032,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "definisi",
+      "islam",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q002",
+    "config": "candidate",
+    "model_answer": "Rukun Islam yang pertama adalah Mengucap Dua Kalimah Syahadat2.\n\nLafaz Dua Kalimah Syahadat dalam Bahasa Arab:\n\n\u0623\u064e\u0634\u0652\u0647\u064e\u062f\u064f \u0623\u064e\u0646\u0652 \u0644\u064e\u0627 \u0625\u0650\u0644\u0670\u0647\u064e \u0625\u0650\u0644\u064e\u0651\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u064e\u062f\u064f \u0623\u064e\u0646\u064e\u0651 \u0645\u064f\u062d\u064e\u0645\u064e\u0651\u062f\u064b\u0627 \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650\n\nTransliterasi (Rumi):\n\n\u201cAsyhadu allaa ilaaha illallaah, wa asyhadu anna Muhammadar rasuulullaah.\u201d\n\nMaksudnya:\n\n\u201cAku bersaksi tiada Tuhan melainkan Allah, dan aku bersaksi bahawa Nabi Muhammad adalah Pesuruh Allah.\u201d\n\nMakna Penting:\n\nKalimah ini menjadi asas keislaman seseorang.\nMengandungi pengakuan tauhid (mengesakan Allah) dan pengiktirafan kerasulan Nabi Muhammad SAW2.\n\nSumber: Bimbingan Fardhu Ain oleh PERKIM2.",
+    "latency_ms": 22790,
+    "correctness": 0.810009241104126,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "rukun_islam",
+      "syahadah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q003",
+    "config": "candidate",
+    "model_answer": "Kitab suci umat Islam adalah Al-Quran.\n\nBahasa Penurunan Al-Quran:\n\nAl-Quran diturunkan dalam bahasa Arab13.\n\nBukti dari Al-Quran:\n\nAllah SWT berfirman:\n\n\u0625\u0650\u0646\u0651\u064e\u0627 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0627\u0647\u064f \u0642\u064f\u0631\u0652\u0622\u0646\u064b\u0627 \u0639\u064e\u0631\u064e\u0628\u0650\u064a\u0651\u064b\u0627 \u0644\u0651\u064e\u0639\u064e\u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u062a\u064e\u0639\u0652\u0642\u0650\u0644\u064f\u0648\u0646\u064e\n\u201cSesungguhnya Kami menurunkannya berupa Al-Quran dalam bahasa Arab agar kamu memahaminya.\u201d\n(Surah Yusuf: 2)\n\nKeistimewaan Bahasa Arab dalam Al-Quran:\nPahala membaca: Hanya mendapat pahala tilawah jika dibaca dalam bahasa Arab, bukan terjemahan3.\nTidak sah solat jika membaca terjemahan Al-Quran (wajib dalam bahasa Arab)3.\nTerpelihara keasliannya sejak diturunkan hingga kini1.\n\nRujukan:\n\nMufti Wilayah Persekutuan (IRS 676)3.\nIRSYAD Fatwa Ke-68: Keistimewaan Al-Quran1.",
+    "latency_ms": 25884,
+    "correctness": 0.8162851333618164,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "wahyu",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q004",
+    "config": "candidate",
+    "model_answer": "Tempat suci umat Islam yang menjadi arah kiblat solat adalah Kaabah yang terletak di Masjidil Haram, Mekah, Arab Saudi23.\n\nDalil Al-Quran:\n\nFirman Allah SWT:\n\n\u0641\u064e\u0648\u064e\u0644\u0651\u0650 \u0648\u064e\u062c\u0652\u0647\u064e\u0643\u064e \u0634\u064e\u0637\u0652\u0631\u064e \u0627\u0644\u0652\u0645\u064e\u0633\u0652\u062c\u0650\u062f\u0650 \u0627\u0644\u0652\u062d\u064e\u0631\u064e\u0627\u0645\u0650\n\u201cMaka hadapkanlah wajahmu ke arah Masjidil Haram.\u201d\n(Surah Al-Baqarah: 144)\n\nFakta Penting:\nKaabah adalah bangunan persegi yang dibina oleh Nabi Ibrahim AS dan anaknya Ismail AS3.\nMasjidil Haram adalah masjid yang mengelilingi Kaabah dan merupakan masjid paling suci dalam Islam.\nSemua umat Islam di seluruh dunia menghadap ke Kaabah ketika solat2.\n\nRujukan:\n\nFatwa Mufti Wilayah Persekutuan (IRS 382) mengenai arah kiblat2.\nFatwa Mufti Perlis tentang penentuan arah kiblat3.",
+    "latency_ms": 24836,
+    "correctness": 0.8224602937698364,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "ibadah",
+      "kiblat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q005",
+    "config": "candidate",
+    "model_answer": "Hari perayaan utama umat Islam selepas Ramadan adalah Hari Raya Aidilfitri (\u0639\u0650\u064a\u062f\u064f \u0627\u0644\u0652\u0641\u0650\u0637\u0652\u0631\u0650), yang disambut pada 1 Syawal setiap tahun2.\n\nCiri-ciri utama Aidilfitri:\n\nDua hari raya sahaja dalam Islam\n\nAidilfitri dan Aidiladha (10 Zulhijjah) adalah satu-satunya perayaan yang disyariatkan dalam Islam, menggantikan perayaan jahiliah2.\n\nAmalan khusus pada 1 Syawal:\n\nSolat Sunat Aidilfitri (disertai khutbah)\nMembayar Zakat Fitrah sebelum solat\nHaram berpuasa pada hari raya\n\nLarangan sambutan melampau:\n\nIslam tidak mengiktiraf sambutan Aidilfitri sebulan penuh (hanya 1 Syawal yang disyariatkan)2.\nNamun, tradisi ziarah-menziarahi atau jamuan makan dalam bulan Syawal tidak dianggap bid\u2018ah selagi tiada ibadat khusus direka2.\n\nDalil:\nSabda Nabi SAW:\n\n\u201cSesungguhnya Allah menggantikan untuk kamu dua hari yang lebih baik: Aidilfitri dan Aidiladha.\u201d\n(Riwayat Ahmad, no. 12362)2.\n\nRujukan: Fatwa Mufti WP (Al-Kafi 1296) berkenaan bid\u2018ah sambutan hari raya sebulan2.\n\nNota: Aidilfitri menandakan kejayaan menyempurnakan ibadah puasa Ramadan dan kegembiraan dengan rahmat Allah SWT.",
+    "latency_ms": 34935,
+    "correctness": 0.8222190141677856,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "perayaan",
+      "aidilfitri",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q006",
+    "config": "candidate",
+    "model_answer": "Nabi terakhir dalam Islam adalah Nabi Muhammad \ufdfa. Beliau merupakan penutup segala nabi dan rasul (Khatam al-Anbiya\u2019) yang diutus oleh Allah SWT untuk seluruh manusia.\n\nDalil Al-Quran:\n\nFirman Allah SWT:\n\n\u0645\u0651\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0645\u064f\u062d\u064e\u0645\u0651\u064e\u062f\u064c \u0623\u064e\u0628\u064e\u0627 \u0623\u064e\u062d\u064e\u062f\u064d \u0645\u0650\u0651\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0640\u0670\u0643\u0650\u0646 \u0631\u0651\u064e\u0633\u064f\u0648\u0644\u064e \u0627\u0644\u0644\u0651\u064e\u0640\u0647\u0650 \u0648\u064e\u062e\u064e\u0627\u062a\u064e\u0645\u064e \u0627\u0644\u0646\u0651\u064e\u0628\u0650\u064a\u0650\u0651\u064a\u0646\u064e\n\u201cMuhammad itu bukanlah bapa kepada mana-mana lelaki dari kalangan kamu, tetapi dia adalah Rasul Allah dan penutup segala nabi.\u201d\n(Surah Al-Ahzab: 40)\n\nCiri-ciri Kekhususannya:\nTiada Nabi Selepasnya \u2013 Kenabian berakhir dengan Baginda, dan syariat yang dibawa bersifat kekal hingga Hari Kiamat.\nDiutus untuk Semua Manusia & Jin \u2013 Berbeza dengan nabi-nabi sebelumnya yang dihantar kepada kaum tertentu.\nAl-Quran sebagai Mukjizat Terakhir \u2013 Kitab suci yang terpelihara hingga kini.\n\nRasulullah \ufdfa bersabda:\n\n\u201cPerumpamaan aku dengan nabi-nabi sebelumku seperti seorang lelaki yang membina sebuah rumah, lalu dia menyempurnakannya kecuali satu bata. Maka orang-orang yang mengelilinginya berkata: \u2018Sungguh indah rumah ini, cuma bata itu yang kurang.\u2019 Akulah bata tersebut, dan akulah penutup para nabi.\u201d\n(Hadis Riwayat Al-Bukhari & Muslim)\n\nNota:\n\nNabi Isa AS akan turun di akhir zaman sebagai \u201cpemimpin umat\u201d (bukan nabi baru) dan mengamalkan syariat Nabi Muhammad \ufdfa.\nTidak boleh mempercayai dakwaan kenabian selepas Nabi Muhammad \ufdfa kerana ia bertentangan dengan akidah Islam.\n\n\u2727 Kesimpulan: Nabi Muhammad \ufdfa adalah rasul terakhir yang dijamin kebenarannya oleh Allah SWT dan Al-Quran. Tiada nabi atau rasul baru selepas Baginda.*",
+    "latency_ms": 42121,
+    "correctness": 0.7656300663948059,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "kerasulan",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q007",
+    "config": "candidate",
+    "model_answer": "Jumlah Rukun Iman dalam Islam adalah 6 perkara.\n\nSenarai Rukun Iman (\u0627\u0644\u0625\u064a\u0645\u0627\u0646 \u0628\u0627\u0644\u0644\u0647):\nBeriman kepada Allah SWT\nBeriman kepada Malaikat\nBeriman kepada Kitab-kitab Allah (termasuk Al-Quran, Taurat, Injil, Zabur)\nBeriman kepada Nabi dan Rasul (termasuk 25 rasul yang wajib diketahui)\nBeriman kepada Hari Kiamat\nBeriman kepada Qada\u2019 dan Qadar (baik & buruk semuanya dari Allah)\nDalil Hadis Nabi \ufdfa:\n\nSabda Rasulullah SAW ketika menjawab soalan Jibril AS tentang iman:\n\n\u00ab\u0623\u064e\u0646\u0652 \u062a\u064f\u0624\u0652\u0645\u0650\u0646\u064e \u0628\u0650\u0627\u0644\u0644\u064e\u0651\u0647\u0650 \u0648\u064e\u0645\u064e\u0644\u064e\u0627\u0626\u0650\u0643\u064e\u062a\u0650\u0647\u0650 \u0648\u064e\u0643\u064f\u062a\u064f\u0628\u0650\u0647\u0650 \u0648\u064e\u0631\u064f\u0633\u064f\u0644\u0650\u0647\u0650 \u0648\u064e\u0627\u0644\u0652\u064a\u064e\u0648\u0652\u0645\u0650 \u0627\u0644\u0622\u062e\u0650\u0631\u0650 \u0648\u064e\u062a\u064f\u0624\u0652\u0645\u0650\u0646\u064e \u0628\u0650\u0627\u0644\u0652\u0642\u064e\u062f\u064e\u0631\u0650 \u062e\u064e\u064a\u0652\u0631\u0650\u0647\u0650 \u0648\u064e\u0634\u064e\u0631\u0650\u0651\u0647\u0650\u00bb\n\u201cIman adalah engkau beriman kepada Allah, malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, Hari Akhirat, serta beriman kepada qadar (takdir) baik dan buruk.\u201d\n(Hadis Riwayat Muslim, No. 8)\n\nPentingnya Rukun Iman:\nAsas akidah Ahlus Sunnah wal Jamaah (tanpanya, iman tidak sah).\nMembezakan Muslim dengan kufur \u2013 Contoh: Mengingkari kenabian Muhammad \ufdfa atau menolak Al-Quran boleh menyebabkan murtad.\n\n\u2727 Nota: Rukun Iman berbeza dengan Rukun Islam (5 perkara: Syahadat, Solat, Zakat, Puasa, Haji). Iman berkaitan kepercayaan hati, manakala Islam berkaitan amalan zahir.\n\nRujukan: Kitab-kitab akidah muktabar seperti Aqidah Tahawiyyah dan Syarah Usul Iman oleh ulama Ahli Sunnah.",
+    "latency_ms": 36433,
+    "correctness": 0.704318642616272,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "rukun_iman",
+      "aqidah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q008",
+    "config": "candidate",
+    "model_answer": "Ibadah wajib yang dilakukan umat Islam pada bulan Ramadan adalah:\n\n1. Berpuasa (\u0627\u0644\u0635\u064a\u0627\u0645)\nHukum: Fardhu ain bagi setiap muslim yang baligh, berakal, dan mampu.\nDalil:\n\n\u201cWahai orang yang beriman! Diwajibkan ke atas kamu berpuasa sebagaimana diwajibkan ke atas orang sebelum kamu agar kamu bertakwa.\u201d\n(Surah Al-Baqarah: 183)\n\n2. Menunaikan Zakat Fitrah\nWaktu: Wajib dibayar sebelum solat Aidilfitri (1 Syawal).\nSyarat: Wajib ke atas setiap individu muslim termasuk bayi yang lahir sebelum terbenam matahari akhir Ramadan.\nTujuan: Membersihkan puasa dan membantu fakir miskin.\n3. Solat Tarawih (Qiyam Ramadan)\nHukum: Sunat muakkad (sangat dituntut) secara berjemaah.\nDalil:\nSabda Nabi \ufdfa:\n\n\u201cSesiapa menghidupkan Ramadan dengan iman dan mengharap pahala, diampuni dosanya yang lalu.\u201d\n(Hadis Riwayat Bukhari & Muslim)\n\nAmalan Tambahan yang Sangat Dianjurkan (bukan wajib):\nTadarus Al-Quran \u2013 Membaca dan menghayati Al-Quran.\nIktikaf \u2013 Berdiam diri di masjid pada 10 malam terakhir untuk mencari Lailatul Qadar.\nMemperbanyak sedekah dan doa.\n\nPengecualian Puasa:\n\nOrang sakit, musafir, haid/nifas, atau uzur syar\u2019i lain wajib qada (ganti puasa) selepas Ramadan.\nOrang tua atau sakit kronik yang tiada harapan sembuh wajib bayar fidyah (memberi makan orang miskin).\n\nRujukan: Fatwa Mufti Wilayah Persekutuan (Al-Kafi 1931) tentang qada puasa bagi yang sembuh dari sakit.",
+    "latency_ms": 41035,
+    "correctness": 0.7859753370285034,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "puasa",
+      "ramadan",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q009",
+    "config": "candidate",
+    "model_answer": "Solat yang wajib ditunaikan lima kali sehari dalam Islam disebut Solat Fardhu atau Solat Lima Waktu. Berikut adalah perinciannya:\n\nSenarai Solat Fardhu Lima Waktu:\nSubuh (2 rakaat)\nWaktu: Dari fajar sadiq hingga terbit matahari.\nZohor (4 rakaat)\nWaktu: Selepas matahari tergelincir hingga bayangan sama panjang dengan objek.\nAsar (4 rakaat)\nWaktu: Selepas waktu Zohor hingga matahari menguning (sebelum maghrib).\nMaghrib (3 rakaat)\nWaktu: Selepas terbenam matahari hingga hilang mega merah.\nIsyak (4 rakaat)\nWaktu: Selepas mega merah hilang hingga pertengahan malam.\nDalil Kewajipan:\n\nFirman Allah SWT:\n\n\u201cSesungguhnya solat itu adalah kewajipan yang ditentukan waktunya ke atas orang-orang yang beriman.\u201d\n(Surah An-Nisa\u2019: 103)\n\nSabda Nabi \ufdfa:\n\n\"Islam dibina atas lima (rukun): Bersaksi tiada tuhan selain Allah dan Muhammad utusan Allah, mendirikan solat\u2026\"\n(Hadis Riwayat Bukhari & Muslim)\n\nPentingnya Solat Fardhu:\nRukun Islam kedua selepas syahadah.\nPembeda antara muslim dan kafir jika ditinggalkan dengan sengaja.\nAmalan pertama dihisab di akhirat.\n\nNota:\n\nSolat wajib ini tidak boleh ditinggalkan kecuali dengan keuzuran syar\u2019i (seperti haid, nifas, atau sakit parah).\nJika tertinggal, wajib qada (diganti selepas waktu berakhir).\n\nRujukan: Kitab Syarah Matan Zubad (Ibnu Ruslan) dan Fiqh Manhaji (Mazhab Syafi\u2019i).",
+    "latency_ms": 39602,
+    "correctness": 0.6999843716621399,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "solat",
+      "ibadah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q010",
+    "config": "candidate",
+    "model_answer": "Ibadah yang wajib dilakukan sekali seumur hidup bagi yang mampu adalah mengerjakan HAJI di Baitullah (Makkah).\n\nDalil Al-Quran:\n\nFirman Allah SWT:\n\n\u0648\u064e\u0644\u0650\u0644\u0651\u064e\u0647\u0650 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u0650 \u062d\u0650\u062c\u0651\u064f \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650 \u0645\u064e\u0646\u0650 \u0627\u0633\u0652\u062a\u064e\u0637\u064e\u0627\u0639\u064e \u0625\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0633\u064e\u0628\u0650\u064a\u0644\u064b\u0627\n\u201cDan Allah mewajibkan manusia mengerjakan ibadah haji dengan mengunjungi Baitullah, iaitu bagi sesiapa yang mampu sampai kepadanya.\u201d\n(Surah Ali Imran: 97)\n\nSyarat Wajib Haji:\nIslam (tidak wajib bagi bukan muslim).\nBaligh & Berakal (kanak-kanak tidak wajib, tetapi sah jika dilakukan).\nMerdeka (hamba tidak diwajibkan).\nMampu dari segi:\nKewangan (cukup untuk perbelanjaan pergi-balik tanpa hutang).\nKesihatan (fizikal mampu menahan kesukaran ibadah).\nKeselamatan (jalan ke Makkah terbuka dan selamat).\nHukum Meninggalkan Haji:\nDosa besar jika sengaja ditinggalkan sedangkan mampu.\nTidak gugur kewajipan sehingga ditunaikan (walau ditunda).\nPerbezaan Haji dan Umrah:\nHaji\tUmrah\nWajib sekali seumur hidup\tSunat (boleh dilakukan berkali-kali)\nWaktu tertentu (bulan Zulhijjah)\tBila-bila masa kecuali hari Arafah & Tasyrik\nRukun lebih panjang (wukuf, mabit, etc.)\tRukun ringkas (tawaf, saie, tahallul)\n\nNota:\n\nUmrah tidak menggantikan kewajipan haji (1).\nJika mampu, segerakan haji kerana ajal tidak diketahui.\n\n\u2727 Rujukan: Kitab Fathul Mu\u2019in (Mazhab Syafi\u2019i) dan fatwa Mufti Wilayah Persekutuan.",
+    "latency_ms": 40617,
+    "correctness": 0.788672685623169,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "haji",
+      "ibadah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q011",
+    "config": "candidate",
+    "model_answer": "Ucapan yang disunatkan ketika bersin dalam Islam adalah seperti berikut:\n\n1. Bagi Orang Yang Bersin:\n\nMengucapkan:\n\n\u201c\u0627\u0644\u0652\u062d\u064e\u0645\u0652\u062f\u064f \u0644\u0650\u0644\u0651\u064e\u0647\u0650\u201d (Alhamdulillah)\nATAU\n\u201c\u0627\u0644\u0652\u062d\u064e\u0645\u0652\u062f\u064f \u0644\u0650\u0644\u0651\u064e\u0647\u0650 \u0639\u064e\u0644\u064e\u0649 \u0643\u064f\u0644\u0651\u0650 \u062d\u064e\u0627\u0644\u064d\u201d (Alhamdulillahi 'ala kulli halin)\n(\u201cSegala puji bagi Allah dalam semua keadaan\u201d)\n\nDalil:\nSabda Nabi \ufdfa:\n\n\u201cApabila salah seorang dari kamu bersin, ucapkanlah Alhamdulillah.\u201d\n(Hadis Riwayat Bukhari, No. 6224)\n\n2. Bagi Orang Yang Mendengar:\n\nMendoakan orang yang bersin dengan mengucapkan:\n\n\u201c\u064a\u064e\u0631\u0652\u062d\u064e\u0645\u064f\u0643\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f\u201d (Yarhamukallah)\n(\u201cSemoga Allah merahmatimu\u201d)\n\nDalil:\n\n\u201cDan saudaranya (yang mendengar) hendaklah mengucapkan Yarhamukallah.\u201d\n(Hadis Riwayat Bukhari, No. 6224)\n\n3. Balasan Orang Yang Bersin:\n\nMembalas doa dengan:\n\n\u201c\u064a\u064e\u0647\u0652\u062f\u0650\u064a\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0648\u064e\u064a\u064f\u0635\u0652\u0644\u0650\u062d\u064f \u0628\u064e\u0627\u0644\u064e\u0643\u064f\u0645\u0652\u201d (Yahdikumullah wa yuslihu baalakum)\n(\u201cSemoga Allah memberi hidayah dan memperbaiki urusanmu\u201d)\n\nContoh lengkap:\n\nOrang bersin: Alhamdulillah\nPendengar: Yarhamukallah\nOrang bersin: Yahdikumullah wa yuslihu baalakum\nAdab Tambahan:\nJika bersin lebih dari 3 kali berturut-turut, doakan kesembuhan (misalnya: \u201cSyifakallah\u201d), kerana ia mungkin tanda selsema.\n(Hadis Riwayat Ibnu Majah, No. 3714)\nMenutup mulut dengan tangan atau kain ketika bersin.\n(Hadis Riwayat Tirmidzi, No. 2745)\nMerendahkan suara agar tidak mengganggu orang lain.\nPenting:\nTasymit (mendoakan) hanya sunat jika orang yang bersin mengucapkan Alhamdulillah. Jika tidak, tidak perlu mendoakannya.\n\n\u2727 Rujukan: Fatwa Mufti Wilayah Persekutuan (Al-Kafi #1683) dan kitab Fath al-Bari oleh Ibnu Hajar.",
+    "latency_ms": 46168,
+    "correctness": 0.6960453987121582,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "adab",
+      "sunah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q012",
+    "config": "candidate",
+    "model_answer": "Nama malam yang lebih baik daripada seribu bulan adalah Lailatul Qadar (\u0644\u064a\u0644\u0629 \u0627\u0644\u0642\u062f\u0631).\n\nDalil Al-Quran:\n\nFirman Allah SWT dalam Surah Al-Qadr, ayat 1-5:\n\n\u201c\u0625\u0650\u0646\u0651\u064e\u0627 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0627\u0647\u064f \u0641\u0650\u064a \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u0650 \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 (1) \u0648\u064e\u0645\u064e\u0627 \u0623\u064e\u062f\u0652\u0631\u064e\u0627\u0643\u064e \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 (2) \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 \u062e\u064e\u064a\u0652\u0631\u064c \u0645\u0651\u0650\u0646\u0652 \u0623\u064e\u0644\u0652\u0641\u0650 \u0634\u064e\u0647\u0652\u0631\u064d (3) \u062a\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u064f \u0627\u0644\u0652\u0645\u064e\u0644\u064e\u0627\u0626\u0650\u0643\u064e\u0629\u064f \u0648\u064e\u0627\u0644\u0631\u0651\u064f\u0648\u062d\u064f \u0641\u0650\u064a\u0647\u064e\u0627 \u0628\u0650\u0625\u0650\u0630\u0652\u0646\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645 \u0645\u0651\u0650\u0646 \u0643\u064f\u0644\u0651\u0650 \u0623\u064e\u0645\u0652\u0631\u064d (4) \u0633\u064e\u0644\u064e\u0627\u0645\u064c \u0647\u0650\u064a\u064e \u062d\u064e\u062a\u0651\u064e\u0649\u0670 \u0645\u064e\u0637\u0652\u0644\u064e\u0639\u0650 \u0627\u0644\u0652\u0641\u064e\u062c\u0652\u0631\u0650 (5)\u201d\n\u201cSesungguhnya Kami telah menurunkan (Al-Quran) pada malam Lailatul Qadar. Tahukah kamu apakah Lailatul Qadar itu? Lailatul Qadar lebih baik daripada seribu bulan. Pada malam itu turun para malaikat dan Jibril dengan izin Tuhan mereka untuk mengatur segala urusan. Malam itu penuh kesejahteraan hingga terbit fajar.\u201d\n\nWaktu Berlaku:\nBulan Ramadan, khususnya pada 10 malam terakhir (terutama malam-malam ganjil: 21, 23, 25, 27, 29 Ramadan).\nSabda Nabi \ufdfa:\n\n\u201cCarilah Lailatul Qadar pada malam-malam ganjil dalam 10 hari terakhir Ramadan.\u201d\n(Hadis Riwayat Bukhari & Muslim)\n\nTanda-Tanda Lailatul Qadar:\nLangit cerah dan tenang, tidak terlalu panas atau sejuk.\nCahaya matahari pagi lembut tanpa sinar kuat (seperti bulan purnama).\nHati terasa tenang dan khusyuk dalam ibadah.\nAmalan Sunat pada Malam Ini:\nQiyamullail (solat malam seperti Tarawih atau Tahajjud).\nMemperbanyak doa, terutama doa:\n\n\u201c\u0627\u0644\u0644\u0651\u064e\u0647\u064f\u0645\u0651\u064e \u0625\u0650\u0646\u0651\u064e\u0643\u064e \u0639\u064e\u0641\u064f\u0648\u0651\u064c \u062a\u064f\u062d\u0650\u0628\u0651\u064f \u0627\u0644\u0652\u0639\u064e\u0641\u0652\u0648\u064e \u0641\u064e\u0627\u0639\u0652\u0641\u064f \u0639\u064e\u0646\u0651\u0650\u064a\u201d\n\u201cYa Allah, sesungguhnya Engkau Maha Pengampun dan suka mengampuni, maka ampunilah aku.\u201d\n(Hadis Riwayat Tirmidzi, No. 3513)\n\nTadarus Al-Quran dan bersedekah.\nKeistimewaan:\nPahala ibadah pada malam ini melebihi 83 tahun (seribu bulan) beribadah tanpa Lailatul Qadar.\nDosa diampuni bagi yang menghidupkannya dengan iman dan ikhlas.\n\n\u2727 Rujukan: Kitab Tafsir Ibnu Kathir (Surah Al-Qadr) dan Riyadhus Salihin (Imam Nawawi).",
+    "latency_ms": 49761,
+    "correctness": 0.7022145986557007,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "ramadan",
+      "lailatul_qadar",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q013",
+    "config": "candidate",
+    "model_answer": "Makanan yang disunatkan untuk berbuka puasa menurut Sunnah Nabi SAW adalah:\n\n1. Kurma (Ruthab/Tamar)\nJumlah: 3 biji (atau bilangan ganjil seperti 1, 3, 5).\nDalil:\nSabda Nabi \ufdfa:\n\n\u201cApabila salah seorang antara kamu berbuka puasa, hendaklah dia berbuka dengan kurma. Sekiranya tiada kurma, berbukalah dengan air kerana air itu suci.\u201d\n(Hadis Riwayat Abu Daud & Tirmidzi, Sahih)\n\nHikmah: Kurma mengandungi glukosa tinggi yang cepat memulihkan tenaga.\n2. Air\nSunat diminum sebelum makanan berat untuk menghilangkan dehidrasi.\nDalil: Hadis di atas menunjukkan keutamaan air jika tiada kurma.\n3. Makanan Manis Secara Umum\nContoh: Madu, buah-buahan segar (seperti tembikai), atau minuman semula jadi tanpa gula berlebihan.\nHikmah: Gula semula jadi membantu menstabilkan kadar gula dalam darah setelah seharian berpuasa.\n4. Makanan Ringan Sebelum Solat Maghrib\nContoh: Sup, bubur, atau roti wholemeal.\nSunnah Nabi: Baginda SAW berbuka dengan kurma/air, kemudian solat Maghrib sebelum makan berat untuk mengelakkan kekenyangan.\nAdab Berbuka Puasa\n\nSegera berbuka ketika masuk waktu (disunatkan tidak ditunda).\nSabda Nabi \ufdfa:\n\n\u201cManusia sentiasa dalam kebaikan selagi mereka menyegerakan berbuka puasa.\u201d\n(Hadis Riwayat Bukhari & Muslim)\n\nBerdoa sebelum berbuka:\n\n\u201c\u0630\u064e\u0647\u064e\u0628\u064e \u0627\u0644\u0638\u0651\u064e\u0645\u064e\u0623\u064f \u0648\u064e\u0627\u0628\u0652\u062a\u064e\u0644\u0651\u064e\u062a\u0650 \u0627\u0644\u0652\u0639\u064f\u0631\u064f\u0648\u0642\u064f \u0648\u064e\u062b\u064e\u0628\u064e\u062a\u064e \u0627\u0644\u0652\u0623\u064e\u062c\u0652\u0631\u064f \u0625\u0650\u0646\u0652 \u0634\u064e\u0627\u0621\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f\u201d\n\u201cTelah hilang dahaga, urat-urat telah basah, dan pahala telah tetap, insyaAllah.\u201d\n(Hadis Riwayat Abu Daud, Hasan)\n\nHindari berlebihan (israf) ketika makan untuk menjaga kesihatan.\n\nTambahan\nMakan secara sederhana mengikut keperluan badan.\nUtamakan makanan sunnah tetapi tidak wajib jika tiada (boleh ganti dengan makanan halal lain).\n\n\u2727 Rujukan: Kitab Fath al-Bari (Ibnu Hajar) dan al-Adab al-Mufrad (Imam Bukhari).",
+    "latency_ms": 50295,
+    "correctness": 0.8010331392288208,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "puasa",
+      "sunah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q014",
+    "config": "candidate",
+    "model_answer": "Nama hari perayaan yang disambut selepas ibadah haji adalah Hari Raya Aidiladha (\u0639\u064a\u062f \u0627\u0644\u0623\u0636\u062d\u0649), juga dikenali sebagai Hari Raya Korban.\n\nMakna Aidiladha\nBahasa Arab: \u201c\u0639\u064a\u062f \u0627\u0644\u0623\u0636\u062d\u0649\u201d (Eid al-Adha) bermaksud Perayaan Penyembelihan.\nDisebut juga: Hari Raya Haji kerana ia disambut selepas ibadah haji (terutama pada 10 Zulhijjah).\nWaktu Sambutan\nTarikh: 10 Zulhijjah (selepas wukuf di Arafah pada 9 Zulhijjah).\nTempoh: 4 hari (10\u201313 Zulhijjah), dikenali sebagai Hari Tasyrik.\nAktiviti Utama\nSolat Sunat Aidiladha (di masjid/surau).\nIbadah Korban (menyembelih haiwan ternakan sebagai tanda ketaatan, mengikut kisah Nabi Ibrahim dan Ismail).\nTakbir Raya (dilaungkan dari malam 10 Zulhijjah hingga 13 Zulhijjah).\nDalil Al-Quran\n\nFirman Allah SWT:\n\n\u201c\u0641\u064e\u0635\u064e\u0644\u0651\u0650 \u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0648\u064e\u0627\u0646\u0652\u062d\u064e\u0631\u0652\u201d\n\u201cOleh itu, kerjakanlah solat kerana Tuhanmu, dan sembelihlah korban.\u201d\n(Surah Al-Kauthar: 2)\n\nPerbezaan dengan Aidilfitri\nAidiladha\tAidilfitri\nDisambut selepas haji (10 Zulhijjah)\tDisambut selepas Ramadan (1 Syawal)\nFokus pada korban & pengorbanan\tFokus pada kemenangan selepas berpuasa\nTempoh 4 hari\tTempoh 1 hari (sunat sambut hingga 30 Syawal)\n\n\u2727 Rujukan: Kitab Fathul Bari (Ibnu Hajar) dan Ahkam al-Quran (Imam Jassas).\n\nNota: Di Malaysia, Aidiladha juga disebut Hari Raya Haji kerana kaitannya dengan ibadah haji.",
+    "latency_ms": 39703,
+    "correctness": 0.8222400546073914,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "perayaan",
+      "aidiladha",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q015",
+    "config": "candidate",
+    "model_answer": "Ucapan yang disunatkan ketika bertemu sesama Muslim ialah:\n\n1. Mengucapkan \u201cAssalamualaikum\u201d (\u0627\u0644\u0633\u064e\u0651\u0644\u064e\u0627\u0645\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652)\n\nLengkap:\n\n\u201c\u0627\u0644\u0633\u064e\u0651\u0644\u064e\u0627\u0645\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0648\u064e\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064f \u0627\u0644\u0644\u064e\u0651\u0647\u0650 \u0648\u064e\u0628\u064e\u0631\u064e\u0643\u064e\u0627\u062a\u064f\u0647\u064f\u201d\n(Assalamualaikum warahmatullahi wabarakatuh)\n\u201cSalam sejahtera ke atas kamu, serta rahmat Allah dan keberkatan-Nya.\u201d\n\nDalil:\nSabda Nabi SAW:\n\n\u201cHak seorang Muslim ke atas Muslim yang lain ada lima: menjawab salam, menziarahi orang sakit, mengiringi jenazah, memenuhi undangan, dan mendoakan orang yang bersin.\u201d\n(Hadis Riwayat Bukhari & Muslim)\n\n2. Menjawab Salam dengan Lebih Baik\n\nBalasan:\n\n\u201c\u0648\u064e\u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u064f \u0627\u0644\u0633\u064e\u0651\u0644\u064e\u0627\u0645\u064f \u0648\u064e\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064f \u0627\u0644\u0644\u064e\u0651\u0647\u0650 \u0648\u064e\u0628\u064e\u0631\u064e\u0643\u064e\u0627\u062a\u064f\u0647\u064f\u201d\n(Waalaikumussalam warahmatullahi wabarakatuh)\n\u201cDan ke atas kamu juga salam sejahtera, rahmat Allah dan keberkatan-Nya.\u201d\n\nPenting:\n\nAllah berfirman dalam Surah An-Nisa\u2019 (4:86):\n\n\u201cDan apabila kamu diberikan penghormatan dengan sesuatu ucapan hormat (seperti memberi salam), maka balaslah penghormatan itu dengan yang lebih baik daripadanya.\u201d\n\n3. Berjabat Tangan (Bersalaman)\nHukum: Sunat sebagai tanda kasih sayang.\nSabda Nabi SAW:\n\n\u201cTiada dua orang Muslim yang bertemu lalu berjabat tangan, melainkan diampunkan dosa mereka sebelum mereka berpisah.\u201d\n(Hadis Riwayat Abu Daud, Sahih)\n\n4. Tambahan Doa atau Ucapan Baik\nContoh:\n\u201cSemoga Allah memberkati hari kamu.\u201d\n\u201cBagaimana keadaan kamu hari ini?\u201d (dengan niat mengambil berat).\nAdab Penting\nUcapkan dengan jelas dan didengari oleh pihak yang diajak salam.\nOrang yang kecil/muda memberi salam dahulu kepada yang lebih tua.\nJangan tinggalkan salam walaupun berjumpa berkali-kali dalam sehari (kecuali dalam majlis yang sama).\n\n\u2727 Rujukan:\n\nRiyadhus Salihin (Imam Nawawi), Bab Keutamaan Salam.\nFathul Bari (Ibnu Hajar), Syarah Hadis No. 6234.\n\nNota: Ucapan salam adalah syiar Islam dan tanda ukhuwah. Nabi SAW bersabda: \u201cKamu tidak akan masuk syurga sehingga kamu beriman, dan tidak sempurna iman sehingga kamu berkasih sayang. Mahukah aku tunjukkan sesuatu yang jika kamu lakukan nescaya kamu akan berkasih sayang? Sebarkanlah salam antara kamu.\u201d (Hadis Riwayat Muslim).",
+    "latency_ms": 57206,
+    "correctness": 0.7627911567687988,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "adab",
+      "salam",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q016",
+    "config": "candidate",
+    "model_answer": "Nama bulan pertama dalam kalendar Hijrah adalah Muharram (\u0627\u0644\u0645\u062d\u0631\u0645).\n\nMakna Muharram:\nBahasa Arab: \u201cMuharram\u201d bermaksud yang diharamkan atau yang disucikan.\nStatus: Salah satu dari 4 bulan haram dalam Islam (bersama Rejab, Zulkaedah, Zulhijjah) di mana peperangan dilarang.\nFakta Penting:\n\nTahun Baru Hijrah:\n\n1 Muharram menandakan permulaan tahun Islam.\nBukan sambutan agama, tetapi di Malaysia diraikan sebagai hari cuti umum.\n\nPeristiwa Bersejarah:\n\n10 Muharram (Hari Asyura):\nNabi Musa AS diselamatkan dari Firaun.\nSunat berpuasa (Hadis Riwayat Muslim).\nDalil Al-Quran:\n\nFirman Allah SWT:\n\n\u0625\u0650\u0646\u0651\u064e \u0639\u0650\u062f\u0651\u064e\u0629\u064e \u0627\u0644\u0634\u0651\u064f\u0647\u064f\u0648\u0631\u0650 \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u062b\u0652\u0646\u064e\u0627 \u0639\u064e\u0634\u064e\u0631\u064e \u0634\u064e\u0647\u0652\u0631\u064b\u0627\u2026 \u0645\u0650\u0646\u0652\u0647\u064e\u0627 \u0623\u064e\u0631\u0652\u0628\u064e\u0639\u064e\u0629\u064c \u062d\u064f\u0631\u064f\u0645\u064c\n\u201cSesungguhnya bilangan bulan di sisi Allah ialah dua belas bulan\u2026 antaranya empat bulan haram.\u201d\n(Surah At-Taubah: 36)\n\nRujukan:\n\nTafsir Ibn Kathir (Surah At-Taubah).\nKitab Bulugh al-Maram (Hadis keutamaan puasa Asyura).\n\nNota: Muharram juga disebut \u201cSyahrullah\u201d (Bulan Allah) kerana kemuliaannya (Hadis Riwayat Muslim).",
+    "latency_ms": 31995,
+    "correctness": 0.7742912173271179,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "kalendar_hijrah",
+      "sejarah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q017",
+    "config": "candidate",
+    "model_answer": "Maksud Zakat Fitrah\n\nZakat fitrah (\u0632\u0643\u0627\u0629 \u0627\u0644\u0641\u0637\u0631) ialah zakat diri yang wajib dikeluarkan oleh setiap individu Muslim bagi menyucikan jiwa dan melengkapkan ibadah puasa Ramadan. Ia juga bertujuan membantu golongan asnaf (terutama fakir miskin) untuk meraikan Hari Raya Aidilfitri.\n\nWaktu Wajib Zakat Fitrah\n\nTempoh Wajib:\n\nBermula ketika terbenam matahari pada akhir Ramadan (malam Syawal) sehingga sebelum solat sunat Aidilfitri.\nSabda Nabi SAW:\n\n\u201cRasulullah SAW mewajibkan zakat fitrah untuk menyucikan orang yang berpuasa dari perkara sia-sia dan ucapan buruk, serta sebagai makanan untuk orang miskin.\u201d\n(Hadis Riwayat Abu Daud, Sahih)\n\nWaktu Afdal:\n\nSebelum solat Aidilfitri (pagi hari raya).\nJika dibayar selepas solat, ia dikira qada (tunaian lewat) tetapi tetap wajib.\nSyarat Wajib Zakat Fitrah\nIslam.\nMempunyai kelebihan harta melebihi keperluan diri dan tanggungan pada hari raya.\nHidup ketika terbenam matahari akhir Ramadan (jika seseorang meninggal sebelum waktu ini, tidak wajib zakat fitrah baginya).\nKadar Zakat Fitrah\n1 gantang Baghdad (\u22482.7 kg) beras atau makanan asasi tempatan.\nDi Malaysia: Nilainya ditetapkan oleh pihak berkuasa agama negeri (contoh: RM7\u2013RM16 mengikut negeri pada 2024).\nPenerima Zakat Fitrah (Asnaf)\n\nZakat fitrah khusus untuk 8 golongan asnaf dalam Surah At-Taubah (9:60), terutamanya:\n\nFakir\nMiskin\nMereka yang baru memeluk Islam (muallaf).\nDalil Al-Quran dan Hadis\nFirman Allah SWT:\n\n\u201cAmbillah zakat dari harta mereka untuk membersihkan dan menyucikan mereka.\u201d\n(Surah At-Taubah: 103)\n\nHadis Nabi SAW:\n\n\u201cZakat fitrah wajib ke atas setiap Muslim, sama ada hamba atau merdeka, lelaki atau wanita, kecil atau besar.\u201d\n(Hadis Riwayat Bukhari & Muslim)\n\nRujukan:\n\nKitab Al-Majmu\u2019 (Imam Nawawi) - Syarah Hadis Muslim.\nFatwa Mufti Wilayah Persekutuan (Panduan kadar zakat semasa).\n\nNota: Zakat fitrah tidak memerlukan ijab kabul (akad formal), cukup dengan niat dan penyerahan kepada amil atau penerima.",
+    "latency_ms": 54991,
+    "correctness": 0.8381858468055725,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "zakat",
+      "ibadah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q018",
+    "config": "candidate",
+    "model_answer": "Peristiwa agung ini dikenali sebagai Isra\u2019 dan Mikraj (\u0627\u0644\u0625\u0633\u0631\u0627\u0621 \u0648\u0627\u0644\u0645\u0639\u0631\u0627\u062c). Berikut penjelasan lengkap:\n\n1. Definisi\nIsra\u2019: Perjalanan malam Nabi SAW dari Masjidil Haram (Makkah) ke Masjidil Aqsa (Baitulmaqdis) dalam satu malam.\nMikraj: Naiknya Baginda SAW melalui 7 lapisan langit hingga ke Sidratul Muntaha.\n2. Tarikh Peristiwa\nBerlaku pada 27 Rejab tahun ke-11 kenabian (sebelum Hijrah).\nDiperselisihkan ulama: Ada pendapat mengatakan ia berlaku pada bulan Rabiul Awal atau Ramadan.\n3. Dalil Al-Quran\n\nFirman Allah dalam Surah Al-Isra\u2019 (17:1):\n\n\u0633\u064f\u0628\u0652\u062d\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0623\u064e\u0633\u0652\u0631\u064e\u0649\u0670 \u0628\u0650\u0639\u064e\u0628\u0652\u062f\u0650\u0647\u0650 \u0644\u064e\u064a\u0652\u0644\u064b\u0627 \u0645\u0650\u0651\u0646\u064e \u0627\u0644\u0652\u0645\u064e\u0633\u0652\u062c\u0650\u062f\u0650 \u0627\u0644\u0652\u062d\u064e\u0631\u064e\u0627\u0645\u0650 \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0652\u0645\u064e\u0633\u0652\u062c\u0650\u062f\u0650 \u0627\u0644\u0652\u0623\u064e\u0642\u0652\u0635\u064e\u0649\n\u201cMaha Suci Allah yang telah menjalankan hamba-Nya (Muhammad) pada malam hari dari Masjidil Haram ke Masjidil Aqsa.\u201d\n\n4. Ringkasan Peristiwa\nKenderaan: Buraq (makhluk surgawi berkecepatan tinggi).\nTempat singgah:\nNabi bertemu para nabi di setiap lapisan langit.\nMenerima perintah solat 5 waktu di Sidratul Muntaha.\nMukjizat: Nabi SAW memimpin solat bersama semua nabi di Masjidil Aqsa.\n5. Hikmah Penting\nUjian keimanan bagi kaum Quraisy.\nPenegasan kedudukan Masjidil Aqsa sebagai kiblat pertama umat Islam.\nPengukuhan rohani Nabi SAW selepas Tahun Kesedihan (kewafatan Khadijah dan Abu Talib).\n6. Amalan Sunnah\nTiada ibadah khusus yang disyariatkan pada malam ini.\nSebahagian ulama menyarankan:\nMemperbanyakkan solat sunat dan zikir.\nMembaca sirah Isra\u2019-Mikraj.\nMenghidupkan malam dengan ibadah umum.\n\nRujukan Muktabar:\n\nSahih Bukhari (Hadis No. 349, 3887)\nSyarah Sifat Solat Nabi (Syeikh Albani)\nAl-Bidayah wa An-Nihayah (Ibn Kathir)\n\nNota: Sambutan Isra\u2019 Mikraj dengan perarakan atau majlis khusus adalah bid\u2019ah jika dianggap sebagai ibadah wajib. Namun, memperingatinya sebagai pengajaran sejarah dibenarkan.",
+    "latency_ms": 48386,
+    "correctness": 0.7487741708755493,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "sejarah",
+      "nabi",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q019",
+    "config": "candidate",
+    "model_answer": "Syarat Sah Menjadi Imam Solat (Menurut Mazhab Syafi\u2019i)\n\nBerikut adalah syarat-syarat yang mesti dipenuhi oleh seseorang untuk menjadi imam solat yang sah:\n\n1. Islam\nOrang kafir atau murtad tidak sah menjadi imam.\n2. Baligh\nKanak-kanak yang belum baligh tidak sah menjadi imam untuk orang dewasa, kecuali dalam solat sunat (seperti Tarawih) jika tiada orang baligh yang layak.\n3. Berakal\nOrang gila atau dalam keadaan mabuk tidak sah menjadi imam.\n4. Lelaki (Bagi Jemaah Lelaki)\nLelaki boleh menjadi imam untuk lelaki dan wanita.\nWanita hanya boleh menjadi imam untuk jemaah wanita sahaja.\n5. Fasih Bacaan Al-Fatihah & Ayat Al-Quran\nImam mesti mampu membaca Al-Fatihah dan ayat-ayat lain dengan betul tajwidnya.\nJika imam banyak kesalahan bacaan sehingga mengubah makna (contoh: \u201c\u0627\u0644\u0652\u062d\u064e\u0645\u0652\u062f\u064f\u201d dibaca \u201c\u0627\u0644\u062d\u064e\u0627\u062f\u064f\u201d), solat makmum tidak sah.\n6. Suci Dari Hadath & Najis\nImam mesti berwudhu\u2019 dan pakaiannya bersih dari najis.\nJika imam batal wudhu\u2019 tanpa disedari, makmum wajib menggantikan solatnya.\n7. Tidak Bermazhab Yang Bertentangan Dalam Rukun Solat\nJika imam bermazhab Hanafi (contoh: membaca Amin kuat), sedangkan makmum bermazhab Syafi\u2019i, harus asalkan perbezaan tidak membatalkan solat.\n8. Tidak Fasiq Terang-Terangan\nImam yang diketahui banyak melakukan maksiat secara terbuka (seperti minum arak) lebih baik dielakkan, tetapi solatnya tetap sah (jika syarat lain dipenuhi).\n9. Kedudukan Imam Tidak Mendahului Makmum\nTumit imam tidak boleh berada di belakang tumit makmum (kecuali dalam keadaan saf penuh).\nDalil Hadis:\n\nNabi SAW bersabda:\n\n\u201cHendaklah yang mengimami suatu kaum adalah yang paling baik bacaan Al-Qurannya.\u201d (Hadis Riwayat Muslim, No. 673)\n\nKesimpulan:\n\nImam solat perlu memenuhi kriteria di atas agar solat jemaah sah dan diterima. Jika tidak, makmum disunatkan memisahkan diri (jika menyedari ketidaksesuaian imam).\n\nRujukan:\n\nMinhaj al-Thalibin (Imam Nawawi) \u2013 Syarat Imam.\nAl-Iqna\u2019 (Syeikh Khatib Asy-Syarbini) \u2013 Hukum Qudwah.\nFath al-Mu\u2019in \u2013 Bab Kepimpinan Solat.\n\nNota: Jika ada keraguan tentang kelayakan imam, lebih baik solat sendiri atau pilih imam yang lebih afdal.",
+    "latency_ms": 57589,
+    "correctness": 0.716481626033783,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "solat",
+      "imam",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q020",
+    "config": "candidate",
+    "model_answer": "Nama doa pembukaan dalam solat selepas takbiratul ihram dikenali sebagai doa iftitah (\u062f\u0639\u0627\u0621 \u0627\u0644\u0627\u0641\u062a\u062a\u0627\u062d).\n\nContoh Doa Iftitah Yang Sahih:\n\nDoa Paling Ringkas (Sahih Bukhari & Muslim):\n\n\u0633\u064f\u0628\u0652\u062d\u064e\u0627\u0646\u064e\u0643\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f\u0645\u0651\u064e \u0648\u064e\u0628\u0650\u062d\u064e\u0645\u0652\u062f\u0650\u0643\u064e\u060c \u0648\u064e\u062a\u064e\u0628\u064e\u0627\u0631\u064e\u0643\u064e \u0627\u0633\u0652\u0645\u064f\u0643\u064e\u060c \u0648\u064e\u062a\u064e\u0639\u064e\u0627\u0644\u064e\u0649 \u062c\u064e\u062f\u0651\u064f\u0643\u064e\u060c \u0648\u064e\u0644\u064e\u0627 \u0625\u0650\u0644\u064e\u0647\u064e \u063a\u064e\u064a\u0652\u0631\u064f\u0643\u064e\n\u201cMaha Suci Engkau ya Allah, dan dengan memuji-Mu. Maha Berkat nama-Mu, Maha Tinggi kemuliaan-Mu, dan tiada tuhan selain Engkau.\u201d\n\nDoa Panjang (Sahih Muslim):\n\n\u0627\u0644\u0644\u0651\u064e\u0647\u064f\u0645\u0651\u064e \u0628\u064e\u0627\u0639\u0650\u062f\u0652 \u0628\u064e\u064a\u0652\u0646\u0650\u064a \u0648\u064e\u0628\u064e\u064a\u0652\u0646\u064e \u062e\u064e\u0637\u064e\u0627\u064a\u064e\u0627\u064a\u064e\u2026\n\u201cYa Allah, jauhkanlah antara aku dan kesalahanku\u2026\u201d\n\nHukum & Panduan:\nSunat dibaca dalam rakaat pertama sahaja (Mazhab Syafi\u2019i).\nBoleh dipilih mana-mana versi yang diajar Nabi SAW.\nDibaca perlahan (tidak perlu kuat).\nDalil Hadis:\n\nNabi SAW bersabda:\n\n\u201cSolatlah sebagaimana kamu melihat aku solat.\u201d\n(Hadis Riwayat Bukhari, No. 631)\n\nRujukan:\n\nSahih Bukhari (Kitab Al-Adzan, Bab Doa Iftitah).\nAl-Azkar (Imam Nawawi) \u2013 Bab Doa Dalam Solat.\n\nNota: Makmum tidak perlu membaca doa iftitah jika masbuk (terlepas rakaat pertama).",
+    "latency_ms": 32611,
+    "correctness": 0.7119383811950684,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "solat",
+      "doa",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q021",
+    "config": "candidate",
+    "model_answer": "Bulan yang diwajibkan berpuasa dalam Islam adalah bulan Ramadan (\u0634\u0647\u0631 \u0631\u0645\u0636\u0627\u0646).\n\nDalil Al-Quran:\n\nFirman Allah SWT dalam Surah Al-Baqarah (2:185):\n\n\u0634\u064e\u0647\u0652\u0631\u064f \u0631\u064e\u0645\u064e\u0636\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0623\u064f\u0646\u0632\u0650\u0644\u064e \u0641\u0650\u064a\u0647\u0650 \u0627\u0644\u0652\u0642\u064f\u0631\u0652\u0622\u0646\u064f \u0647\u064f\u062f\u064b\u0649 \u0644\u0650\u0651\u0644\u0646\u064e\u0651\u0627\u0633\u0650 \u0648\u064e\u0628\u064e\u064a\u0650\u0651\u0646\u064e\u0627\u062a\u064d \u0645\u0650\u0651\u0646\u064e \u0627\u0644\u0652\u0647\u064f\u062f\u064e\u0649\u0670 \u0648\u064e\u0627\u0644\u0652\u0641\u064f\u0631\u0652\u0642\u064e\u0627\u0646\u0650\n\u201c(Masa yang diwajibkan kamu berpuasa itu ialah) bulan Ramadan yang padanya diturunkan Al-Quran, menjadi petunjuk bagi sekalian manusia, dan menjadi keterangan-keterangan yang menjelaskan petunjuk dan (menjelaskan) perbezaan antara yang benar dengan yang salah.\u201d\n\nSyarat Kewajipan Puasa Ramadan:\nIslam \u2013 Tidak wajib bagi orang kafir.\nBaligh \u2013 Kanak-kanak tidak wajib, tetapi digalakkan berlatih.\nBerakal \u2013 Orang gila atau tidak sedar diri dikecualikan.\nMampu \u2013 Orang sakit, musafir, atau uzur boleh berbuka dengan kewajipan qada.\nSuci dari haid & nifas \u2013 Wanita yang haid/nifas wajib qada puasa.\nKelebihan Puasa Ramadan:\nPintu syurga Ar-Rayyan khusus untuk orang yang berpuasa (Hadis Bukhari & Muslim).\nPengampunan dosa jika puasa dilakukan dengan iman dan mengharap pahala (Hadis Riwayat Bukhari).\nRujukan:\nSahih Bukhari (Hadis No. 1901) \u2013 Kewajipan puasa Ramadan.\nTafsir Ibn Kathir (Surah Al-Baqarah: 185) \u2013 Penjelasan ayat puasa.\n\nNota: Puasa Ramadan bermula dengan melihat anak bulan (rukyah hilal) atau genap 30 hari bulan Syaaban.",
+    "latency_ms": 38103,
+    "correctness": 0.8251108527183533,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "puasa",
+      "ramadan",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q022",
+    "config": "candidate",
+    "model_answer": "Maksud Kalimah \u2018Bismillahirrahmanirrahim\u2019 (\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650):\n\nKalimah ini bermaksud:\n\u201cDengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\u201d\n\nTafsiran Perkataan:\n\n\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 (Bismillah)\n\n\u201cDengan nama Allah\u201d \u2013 Menyatakan permulaan sesuatu perbuatan dengan menyebut nama Allah SWT sebagai pengiktirafan kekuasaan-Nya.\n\n\u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 (Ar-Rahman)\n\n\u201cYang Maha Pengasih\u201d \u2013 Kasih sayang Allah yang meliputi semua makhluk di dunia (Muslim dan bukan Muslim).\n\n\u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 (Ar-Rahim)\n\n\u201cYang Maha Penyayang\u201d \u2013 Kasih sayang Allah yang khusus untuk orang beriman di akhirat.\nKedudukan dalam Islam:\nAyat pertama dalam Surah Al-Fatihah dan permulaan semua surah dalam Al-Quran (kecuali Surah At-Taubah).\nSunat dibaca sebelum memulakan sebarang aktiviti harian (makan, minum, kerja, dll) sebagai tanda keberkatan.\nDalil Al-Quran:\n\nFirman Allah dalam Surah Al-Naml (27:30):\n\n\u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0645\u0650\u0646 \u0633\u064f\u0644\u064e\u064a\u0652\u0645\u064e\u0627\u0646\u064e \u0648\u064e\u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650\n\u201cSesungguhnya surat itu dari Sulaiman, dan sesungguhnya (isi kandungannya): \u2018Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\u2019\u201d\n\nHikmah Membaca Basmalah:\nMendapat pahala \u2013 Setiap perkataan adalah zikir.\nMelindungi dari syaitan \u2013 Syaitan tidak dapat mengganggu aktiviti yang dimulai dengan Basmalah (Hadis Riwayat Abu Daud).\nMengelak dari terputusnya keberkatan \u2013 Sabda Nabi SAW:\n\n\u201cSetiap perkara penting yang tidak dimulai dengan Bismillah, maka ia terputus (berkurangan keberkatannya).\u201d\n(Hadis Riwayat Ibn Majah)\n\nRujukan:\n\nTafsir Ibn Kathir (Surah Al-Fatihah)\nFath al-Bari (Syarah Sahih Bukhari)\n\nNota: Makruh membaca Basmalah ketika melakukan perkara haram/sia-sia (seperti maksiat atau berhibur dengan lagha).",
+    "latency_ms": 47295,
+    "correctness": 0.775083065032959,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "doa",
+      "basmalah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q023",
+    "config": "candidate",
+    "model_answer": "Kitab yang diturunkan kepada Nabi Musa a.s. dalam agama Islam dinamakan \u201cTaurat\u201d (\u0627\u0644\u062a\u0648\u0631\u0627\u0629).\n\nDalil Al-Quran:\n\nAllah SWT berfirman dalam Surah Al-Ma\u2019idah (5:44):\n\n\u0625\u0650\u0646\u0651\u064e\u0627 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0627 \u0627\u0644\u062a\u0651\u064e\u0648\u0652\u0631\u064e\u0627\u0629\u064e \u0641\u0650\u064a\u0647\u064e\u0627 \u0647\u064f\u062f\u064b\u0649 \u0648\u064e\u0646\u064f\u0648\u0631\u064c\n\u201cSesungguhnya Kami telah menurunkan Taurat, di dalamnya terdapat petunjuk dan cahaya.\u201d\n\nCiri-Ciri Kitab Taurat:\nBahasa Ibrani \u2013 Diturunkan dalam bahasa Nabi Musa a.s.\nMengandungi hukum syariat \u2013 Seperti 10 Perintah Tuhan (Ten Commandments).\nFokus pada Bani Israil \u2013 Panduan khusus untuk kaum Nabi Musa.\nPerbezaan dengan Taurat Sekarang:\nTaurat asal telah diubah oleh manusia (tahrif) seperti disebut dalam Al-Quran (Surah Al-Baqarah 2:79).\nUmat Islam wajib percaya pada Taurat asal yang diturunkan Allah, bukan versi yang terubah.\n\nRujukan:\n\nTafsir Ibn Kathir (Surah Al-Ma\u2019idah: 44)\nSahih Bukhari (Hadis No. 4738) \u2013 Penjelasan tentang kitab-kitab samawi.\n\nNota: Umat Islam juga percaya pada kitab-kitab lain seperti Zabur (Nabi Daud), Injil (Nabi Isa), dan Al-Quran (Nabi Muhammad SAW) sebagai penyempurna.",
+    "latency_ms": 35146,
+    "correctness": 0.7100088000297546,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "kitab",
+      "nabi",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q024",
+    "config": "candidate",
+    "model_answer": "Nama isteri pertama Nabi Muhammad SAW ialah Khadijah binti Khuwailid R.Anha.\n\nMaklumat Penting Tentang Khadijah R.Anha:\n\nLatar Belakang:\n\nBerketurunan bangsawan Quraisy.\nDikenali sebagai At-Tahirah (wanita suci) kerana akhlak dan kedudukannya yang mulia.\n\nPerkahwinan dengan Nabi SAW:\n\nKetika berusia 40 tahun, manakala Nabi SAW berusia 25 tahun.\nPernikahan mereka berlangsung selama 25 tahun hingga wafatnya Khadijah.\n\nAnak-anak:\n\nMendapat 6 orang anak:\nQasim, Abdullah (meninggal kecil)\nZainab, Ruqayyah, Ummu Kalthum, Fatimah Az-Zahra\n\nJasa dan Pengorbanan:\n\nOrang pertama beriman kepada Nabi SAW.\nMemberi sokongan moral dan kewangan penuh semasa dakwah awal Islam.\nNabi SAW menyebutnya sebagai:\n\n\u201cDia beriman kepadaku ketika orang lain ingkar, membenarkanku ketika orang lain mendustakan, dan membantu dengan hartanya ketika orang lain menahan bantuan.\u201d\n(Riwayat Ahmad)\n\nTarikh Wafat:\n\nMeninggal dunia pada tahun ke-10 kenabian (3 tahun sebelum Hijrah).\nTahun tersebut dinamakan \u2018Amul Huzn (Tahun Kesedihan) kerana Nabi SAW sangat berduka.\nDalil Hadis:\nAisyah R.Anha berkata:\n\n\u201cAku tidak pernah cemburu kepada isteri-isteri Nabi SAW seperti cemburuku kepada Khadijah (yang telah wafat), kerana Nabi SAW sering menyebut-nyebutnya.\u201d\n(Sahih Bukhari, No. 3818)\n\nRujukan:\n\nSirah Ibn Hisyam \u2013 Riwayat kehidupan Khadijah.\nAl-Isabah fi Tamyiz as-Sahabah (Ibn Hajar) \u2013 Biografi Khadijah.\n\nNota: Khadijah R.Anha adalah satu-satunya isteri Nabi SAW yang tidak pernah berkahwin dengan lelaki lain sebelum Baginda.",
+    "latency_ms": 44916,
+    "correctness": 0.8191210031509399,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "sirah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q025",
+    "config": "candidate",
+    "model_answer": "Surah yang paling pendek dalam Al-Quran adalah Surah Al-Kausar (\u0633\u0648\u0631\u0629 \u0627\u0644\u0643\u0648\u062b\u0631), yang terdiri daripada 3 ayat sahaja.\n\nMaklumat Surah Al-Kausar:\nSurah ke-108 dalam susunan Al-Quran (juzuk 30).\nHanya mengandungi 10 patah perkataan dalam bahasa Arab.\nDiturunkan di Mekah (surah Makkiyah).\nTerjemahan:\n\n\u201cSesungguhnya Kami telah mengurniakan kepadamu (wahai Muhammad) nikmat yang banyak (Al-Kausar). Oleh itu, kerjakanlah solat kerana Tuhanmu, dan sembelihlah korban. Sesungguhnya orang yang membencimu dialah yang terputus (dari rahmat Allah).\u201d\n(Surah Al-Kausar, 108:1-3)\n\nKelebihan Surah Al-Kausar:\nNabi SAW bersabda:\n\u201cSesiapa membaca Surah Al-Kausar, Allah akan memberinya minum dari sungai-sungai syurga.\u201d\n(Riwayat At-Thabarani)\nNama \u2018Al-Kausar\u2019 merujuk kepada sungai di syurga yang dikhaskan untuk Nabi Muhammad SAW.\nPerbandingan dengan Surah Pendek Lain:\nSurah Al-Asr (3 ayat, tetapi lebih panjang dari segi perkataan).\nSurah An-Nasr (3 ayat, tetapi lebih panjang dari segi huruf).\n\nRujukan:\n\nTafsir Ibn Kathir (Surah Al-Kausar)\nSahih Bukhari (Kitab Tafsir)\n\nNota: Walaupun pendek, maknanya sangat mendalam tentang nikmat Allah dan kewajipan bersyukur.",
+    "latency_ms": 35143,
+    "correctness": 0.8141672015190125,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "surah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q026",
+    "config": "candidate",
+    "model_answer": "Arah kiblat bagi umat Islam di seluruh dunia adalah menghadap ke Kaabah di Masjidil Haram, Mekah (Arab Saudi).\n\nPenjelasan Terperinci:\n\nDalil Al-Quran & Hadis:\n\nFirman Allah SWT:\n\u201cMaka hadapkanlah wajahmu ke arah Masjidil Haram. Dan di mana sahaja kamu berada, hadapkanlah wajahmu ke arahnya.\u201d\n(Surah Al-Baqarah, 2:144)\nSabda Nabi SAW:\n\u201cArah antara timur dan barat adalah kiblat.\u201d\n(Riwayat Tirmidzi)\n\nKaedah Penentuan Arah Kiblat:\n\nBagi yang berada di Masjidil Haram:\nWajib melihat Kaabah secara langsung (jika mampu).\nBagi yang jauh dari Mekah:\nMenghadap ke arah jaziratul Arab (tanah Arab) berdasarkan kaedah saintifik seperti:\nKompas kiblat (mengikut sudut darjah tertentu bagi setiap negara).\nAplikasi digital (contoh: Qibla Finder).\nFalak/astronomi (penentuan tepat menggunakan buruj dan matahari).\n\nContoh Arah Kiblat untuk Beberapa Negara:\n\nMalaysia/Indonesia: Barat Laut (~292\u00b0-295\u00b0 dari Utara).\nMesir: Timur (~90\u00b0).\nAmerika Utara: Timur Laut (~50\u00b0-60\u00b0).\n\nJika Tersalah Arah:\n\nMenurut mazhab Syafie, jika tersedar solat dalam arah salah:\nCukup memusing badan ke arah betul tanpa mengulang solat.\n(Rujukan: 2)\nJika ragu-ragu, ijtihad berdasarkan petunjuk kuat (seperti sijil falak masjid).\nSumber Rujukan:\nFatwa Mufti Wilayah Persekutuan (2, 3).\nKitab Fiqh al-Manhaji (1/128) \u2013 Syarat sah solat.\n\nNota:\n\nKiblat bukan sekadar arah geografi, tetapi simbol penyatuan umat Islam dalam ibadah.\nPastikan menggunakan sumber sahih (seperti Jabatan Mufti negeri) untuk elak kesilapan.",
+    "latency_ms": 46991,
+    "correctness": 0.8131495714187622,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "kiblat",
+      "solat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q027",
+    "config": "candidate",
+    "model_answer": "Doa penutup majlis yang sering dibaca dalam Islam dikenali sebagai Doa Kaffarah Majlis atau Tasbih Kaffarah.\n\nLafaz Doa Kaffarah Majlis:\n\n\u0627\u064e\u0644\u0644\u0651\u064e\u0647\u064f\u0645\u0651\u064e \u0627\u063a\u0652\u0641\u0650\u0631\u0652 \u0644\u064e\u0646\u064e\u0627 \u0648\u064e\u062a\u064f\u0628\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0646\u064e\u0627 \u0625\u0650\u0646\u0651\u064e\u0643\u064e \u0623\u064e\u0646\u0652\u062a\u064e \u0627\u0644\u062a\u0651\u064e\u0648\u0651\u064e\u0627\u0628\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0652\u0645\u0650\n\u201cYa Allah, ampunilah kami dan terimalah taubat kami. Sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang.\u201d\n\n(Juga boleh ditambah dengan Surah Al-Asr pada akhir majlis sebagai amalan sunnah sahabat)\n\nDalil & Sumber:\n\nHadis Sahih:\n\nNabi SAW bersabda:\n\u201cSesiapa yang duduk dalam satu majlis lalu banyak bergurau senda, hendaklah dia membaca sebelum bangun: \u0633\u064f\u0628\u0652\u062d\u064e\u0627\u0646\u064e\u0643\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f\u0645\u0651\u064e \u0648\u064e\u0628\u0650\u062d\u064e\u0645\u0652\u062f\u0650\u0643\u064e\u060c \u0623\u064e\u0634\u0652\u0647\u064e\u062f\u064f \u0623\u064e\u0646\u0652 \u0644\u064e\u0627 \u0625\u0650\u0644\u064e\u0647\u064e \u0625\u0650\u0644\u0651\u064e\u0627 \u0623\u064e\u0646\u0652\u062a\u064e\u060c \u0623\u064e\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0643\u064e \u0648\u064e\u0623\u064e\u062a\u064f\u0648\u0628\u064f \u0625\u0650\u0644\u064e\u064a\u0652\u0643\u064e (Maha Suci Engkau ya Allah, aku bersaksi tiada tuhan selain-Mu, aku memohon ampun dan bertaubat kepada-Mu).\u201d\n(Riwayat Tirmizi, No. 3433)\n\nAmalan Sahabat:\n\nSebahagian sahabat Nabi SAW membaca Surah Al-Asr (\u0648\u064e\u0627\u0644\u0639\u064e\u0635\u0652\u0631\u0650) sebelum berpisah sebagai peringatan.\n(Riwayat Tabrani dalam Al-Mu\u2019jam Al-Awsat, No. 5124)\nKelebihan Doa Ini:\nMenghapuskan dosa kecil yang mungkin terjadi semasa majlis (seperti ghibah atau lalai).\nMelindungi majlis dari gangguan syaitan.\n\nRujukan:\n\n1 (Fatwa Mufti WP berkenaan tasbih kaffarah dan Surah Al-Asr).\nSahih Sunan Tirmizi (Bab Doa).\n\nNota:\n\nBoleh juga ditambah dengan zikir lain (contoh: Subhanallah, Alhamdulillah).\nPenting untuk menutup majlis ilmu dengan doa agar keberkatan ilmu terjaga.\n\nContoh lengkap:\n\nBaca Tasbih Kaffarah di atas.\nSurah Al-Asr (jika majlis ilmu).\nSalam sebagai penutup.",
+    "latency_ms": 45193,
+    "correctness": 0.720012366771698,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "doa",
+      "adab",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q028",
+    "config": "candidate",
+    "model_answer": "Malaikat yang ditugaskan meniup sangkakala (terompet) pada Hari Kiamat adalah Malaikat Israfil (\u0625\u0633\u0631\u0627\u0641\u064a\u0644).\n\nPeranan Malaikat Israfil:\n\nTiupan Pertama (Nafkhatul Faza\u2019):\n\nAkan memusnahkan seluruh alam (langit, bumi, gunung, dan semua makhluk).\nBerdasarkan firman Allah:\n\n\u201cDan sangkakala pun ditiup, maka matilah semua yang di langit dan di bumi kecuali mereka yang dikehendaki Allah.\u201d\n(Surah Az-Zumar 39:68)\n\nTiupan Kedua (Nafkhatul Ba\u2019ts):\n\nAkan menghidupkan semula seluruh manusia untuk dibangkitkan.\nSabda Nabi SAW:\n\n\u201cIsrafil telah meletakkan mulut sangkakala di mulutnya, menunggu perintah untuk meniupnya.\u201d\n(Riwayat Ahmad, No. 12584)\n\nCiri-ciri Sangkakala:\nBesar seperti alam semesta \u2013 Nabi SAW bersabda:\n\n\u201cSangkakala itu tanduk yang sangat besar, dan akan ditiup sebanyak tiga kali.\u201d\n(Riwayat Tirmizi, No. 3243)\n\nSumber Rujukan:\nAl-Quran: Surah Az-Zumar (39:68), Surah An-Naml (27:87).\nHadis: Sahih Bukhari (Kitab Tafsir), Sunan Tirmizi (Kitab Sifatul Qiyamah).\n\nNota:\n\nHanya Allah SWT yang tahu bilakah Israfil akan meniup sangkakala ini.\nTiupan ini adalah tanda bermulanya Hari Kebangkitan (Yaumul Qiyamah).\n\nSemoga kita tergolong dalam hamba yang bersedia menghadapi hari tersebut.",
+    "latency_ms": 37281,
+    "correctness": 0.8284533023834229,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "malaikat",
+      "kiamat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q029",
+    "config": "candidate",
+    "model_answer": "Nabi Muhammad SAW dilahirkan di kota Mekah (\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629), Arab Saudi.\n\nFakta Penting Tentang Kota Kelahiran Nabi:\n\nTarikh Kelahiran:\n\n12 Rabiul Awal (tahun Gajah/570 atau 571M) di rumah datuknya, Abdul Muthalib.\nLokasi tepat: Kawasan Suq al-Lail (kini dikenali sebagai Maulid Nabi Street berhampiran Masjidil Haram).\n\nKeistimewaan Mekah:\n\nKota suci umat Islam yang mempunyai Kaabah (kiblat solat).\nTempat turunnya wahyu pertama (Surah Al-\u2018Alaq) di Gua Hira.\n\nDalil Al-Quran:\n\n\u201cDan Dia-lah yang menahan tangan mereka (musyrikin Mekah) daripada (membunuh) kamu, dan menahan tangan kamu daripada (membunuh) mereka di tengah kota Mekah setelah Allah memenangkan kamu ke atas mereka.\u201d\n(Surah Al-Fath 48:24)\n\nHadis Nabi SAW:\n\n\u201cDemi Allah, engkau (wahai Mekah) adalah sebaik-baik bumi Allah, dan bumi Allah yang paling aku cintai.\u201d\n(Riwayat Tirmizi, No. 3925)\n\nLokasi Kelahiran Nabi Kini:\nRumah kelahiran Baginda telah dijadikan perpustakaan oleh kerajaan Arab Saudi (tiada lagi bangunan asal).\nKawasan sekitar Masjidil Haram dipenuhi tanda sejarah seperti Jabal Abu Qubais dan Sumur Zamzam.\n\nRujukan:\n\nSirah Ibn Hisyam (Kitab Sejarah Nabi).\nAl-Bidayah wa al-Nihayah (Ibn Kathir).\n\nMekah bukan sekadar tempat kelahiran Nabi, tetapi juga pusat ibadah dan penyatuan umat Islam hingga Hari Kiamat.",
+    "latency_ms": 39424,
+    "correctness": 0.8507041931152344,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "sirah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q030",
+    "config": "candidate",
+    "model_answer": "Surah pertama dalam al-Quran adalah Surah Al-Fatihah (\u0627\u0644\u0641\u0627\u062a\u062d\u0629), yang juga dikenali sebagai Ummul Kitab (Induk al-Quran).\n\nMaklumat Penting Tentang Surah Al-Fatihah:\nBilangan Ayat: 7 ayat\nDiturunkan di: Mekah (Makkiyyah)\nKedudukan: Surah pertama dalam susunan mushaf, dan wajib dibaca dalam setiap rakaat solat.\nDalil Al-Quran & Hadis:\n\nFirman Allah SWT:\n\n\u201cDan sesungguhnya Kami telah berikan kepadamu (wahai Muhammad) tujuh ayat yang diulang-ulang (Al-Fatihah) dan al-Quran yang agung.\u201d\n(Surah Al-Hijr 15:87)\n\nSabda Nabi SAW:\n\n\u201cTidak sah solat seseorang tanpa membaca Al-Fatihah.\u201d\n(Riwayat Bukhari, No. 756)\n\nKeistimewaan Surah Al-Fatihah:\nDisebut sebagai \u201cAs-Sab\u2019ul Mathani\u201d (tujuh ayat yang diulang).\nMerupakan dialog antara hamba dan Allah (separuh ayat pujian, separuh lagi doa).\nPenyembuh penyakit (dibaca sebagai ruqyah).\n\nNota:\n\nSurah pertama diturunkan secara lengkap kepada Nabi Muhammad SAW.\nWajib dibaca dalam solat mengikut mazhab Syafie, Maliki, dan Hanbali.\n\nSemoga kita sentiasa menghayati makna Al-Fatihah dalam ibadah harian.",
+    "latency_ms": 33696,
+    "correctness": 0.837266206741333,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "surah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q031",
+    "config": "candidate",
+    "model_answer": "Nabi yang terkenal dengan mukjizat dapat hidup dalam perut ikan adalah Nabi Yunus AS (\u064a\u0648\u0646\u0633 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nKisah Mukjizat Nabi Yunus AS:\n\nPeristiwa Ditelan Ikan Besar:\n\nNabi Yunus AS meninggalkan kaumnya dalam keadaan marah sebelum diizinkan Allah.\nBeliau ditelan oleh ikan besar (Nun/Hut) dan hidup di dalam perutnya selama 3 hari 3 malam.\nFirman Allah SWT:\n\n\u201cMaka sabarlah (wahai Yunus) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (orang yang berada) dalam (perut) ikan ketika ia berdoa dengan keadaan sesal.\u201d\n(Surah Al-Qalam 68:48)\n\nDoa Nabi Yunus Dalam Perut Ikan:\n\nBeliau membaca \u201cZikir Yunus\u201d:\n\n\u0644\u064e\u0651\u0627 \u0625\u0650\u0644\u064e\u0670\u0647\u064e \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646\u062a\u064e \u0633\u064f\u0628\u0652\u062d\u064e\u0627\u0646\u064e\u0643\u064e \u0625\u0650\u0646\u0650\u0651\u064a \u0643\u064f\u0646\u062a\u064f \u0645\u0650\u0646\u064e \u0627\u0644\u0638\u064e\u0651\u0627\u0644\u0650\u0645\u0650\u064a\u0646\u064e\n\u201cTiada Tuhan melainkan Engkau (Ya Allah), Maha Suci Engkau, sesungguhnya aku termasuk orang yang zalim.\u201d\n(Surah Al-Anbiya 21:87)\n\nDoa ini mustajab dan menyelamatkannya.\n\nDikeluarkan oleh Ikan ke Pantai:\n\nAllah SWT memerintahkan ikan mengeluarkannya dalam keadaan sakit dan lemah.\nBeliau dihantar semula kepada kaumnya yang akhirnya beriman.\nPengajaran Kisah Ini:\nKekuasaan Allah menghidupkan manusia dalam keadaan mustahil.\nPentingnya taubat dan sabar menghadapi ujian.\n\nSumber Rujukan:\n\nSurah As-Saffat (37:139-148)\nTafsir Ibn Kathir (Kisah Nabi Yunus)\n\nSemoga kita mengambil iktibar dari ketabahan Nabi Yunus AS.",
+    "latency_ms": 39764,
+    "correctness": 0.7287195920944214,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "mukjizat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q032",
+    "config": "candidate",
+    "model_answer": "Surah yang dikenali sebagai \u2018Ummul Kitab\u2019 (\u0623\u0645 \u0627\u0644\u0643\u062a\u0627\u0628) atau \u201cInduk al-Quran\u201d adalah Surah Al-Fatihah (\u0627\u0644\u0641\u0627\u062a\u062d\u0629).\n\nMengapa Dinamakan \u2018Ummul Kitab\u2019?\n\nKandungannya Merangkumi Intipati al-Quran:\n\nSurah ini mengandungi pujian kepada Allah, permohonan hidayah, dan pengakuan kehambaan.\nSabda Nabi SAW:\n\n\u201cDemi Yang jiwaku di Tangan-Nya, tidak diturunkan dalam Taurat, Injil, Zabur, atau al-Quran yang seumpama Surah Al-Fatihah.\u201d\n(Riwayat Tirmizi, No. 2875)\n\nWajib Dibaca dalam Setiap Rakaat Solat:\n\nMenurut mazhab Syafi\u2019e, tidak sah solat tanpa Al-Fatihah.\nFakta Surah Al-Fatihah:\nBilangan ayat: 7\nDiturunkan di: Mekah (Makkiyyah)\nNama lain:\nAs-Sab\u2019ul Mathani (Tujuh ayat yang diulang)\nAsh-Shalah (kerana menjadi rukun solat)\nDalil al-Quran:\n\n\u201cDan sesungguhnya Kami telah berikan kepadamu tujuh ayat yang diulang (Al-Fatihah) dan al-Quran yang agung.\u201d\n(Surah Al-Hijr 15:87)\n\nNota:\n\nSurah ini juga disebut sebagai \u201cPembukaan al-Quran\u201d kerana mengetuai susunan mushaf.\n\nSemoga kita sentiasa menghayati makna Al-Fatihah dalam ibadah harian.",
+    "latency_ms": 33119,
+    "correctness": 0.7996499538421631,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "surah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q033",
+    "config": "candidate",
+    "model_answer": "Malaikat yang ditugaskan menyampaikan wahyu kepada para nabi adalah Malaikat Jibril AS (\u062c\u0628\u0631\u0627\u0626\u064a\u0644 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nFakta Penting Tentang Malaikat Jibril:\n\nNama Lain:\n\nRuhul Qudus (\u0631\u0648\u062d \u0627\u0644\u0642\u062f\u0633) - \u201cRoh Suci\u201d\nAn-Namus (\u0627\u0644\u0646\u0627\u0645\u0648\u0633) - Sebutan dalam kitab-kitab terdahulu\n\nTugas Utama:\n\nMenyampaikan wahyu Allah kepada para nabi dan rasul, termasuk:\nNabi Muhammad SAW (selama 23 tahun)\nNabi Isa AS (menurunkan Injil)\nNabi Musa AS (membantu penulisan Taurat)\n\nCiri Fizikal:\n\nMemiliki 600 sayap yang menutupi ufuk langit (Sahih Bukhari, No. 3232)\nKadang muncul dalam rupa manusia (seperti lelaki tampan bernama Dihyah Al-Kalbi)\nDalil Al-Quran dan Hadis:\n\nFirman Allah:\n\n\u201cDia (Al-Quran) dibawa turun oleh Ruhul Amin (Jibril) ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan.\u201d\n(Surah Asy-Syu\u2019ara 26:193-194)\n\nSabda Nabi SAW:\n\n\u201cJibril mendatangiku dan berkata: \u2018Bacalah!\u2019 Aku jawab: \u2018Aku tidak boleh membaca.\u2019 Lalu dia memelukku hingga sesak, kemudian melepaskanku sambil berkata: \u2018Bacalah!\u2019\u2026\u201d\n(Riwayat Bukhari, No. 3 - Mengisahkan turunnya wahyu pertama di Gua Hira)\n\nPeristiwa Penting:\nTurunnya Al-Quran pertama kali (Surah Al-'Alaq:1-5) melalui Jibril.\nMendampingi Nabi SAW dalam Isra\u2019 Mikraj untuk menerima perintah solat.\n\nMalaikat Lain yang Terlibat dengan Wahyu:\n\nMikail AS - Menyampaikan wahyu berupa ilham (bukan kalam Allah langsung).\nIsrafil AS - Akan meniup sangkakala (tiupan wahyu akhir zaman).\n\nSemoga kita sentiasa bersyukur atas nikmat wahyu yang disampaikan melalui Malaikat Jibril.",
+    "latency_ms": 44415,
+    "correctness": 0.7466534972190857,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "malaikat",
+      "wahyu",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q034",
+    "config": "candidate",
+    "model_answer": "Kota yang menjadi tempat hijrah Nabi Muhammad SAW adalah Madinah Al-Munawwarah (\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629), yang bermaksud \u201cKota Yang Bercahaya\u201d.\n\nFakta Penting tentang Hijrah ke Madinah:\n\nTarikh Hijrah:\n\nBermula pada 12 Rabiul Awal tahun 1 Hijrah (bersamaan September 622 Masihi).\nPeristiwa ini menjadi permulaan kalendar Islam.\n\nNama Asal Kota:\n\nSebelum Islam, dikenali sebagai Yathrib.\nNabi Muhammad SAW menamakannya Madinah (Kota) setelah berhijrah.\n\nSebab Hijrah:\n\nTekanan dan ancaman daripada kaum Musyrikin Mekah.\nUndangan penduduk Madinah (kaum Ansar) untuk menjadikannya pusat pemerintahan Islam.\n\nPeristiwa Penting di Madinah:\n\nPembinaan Masjid Nabawi sebagai pusat ibadah dan pentadbiran.\nPenyatuan kaum Muhajirin (orang Islam Mekah) dan Ansar (penduduk Madinah).\nDalil al-Quran:\n\n\u201cDan orang-orang (Ansar) yang mendiami negeri (Madinah) serta beriman sebelum mereka (Muhajirin), mengasihi orang-orang yang berhijrah ke negeri mereka\u2026\u201d\n(Surah Al-Hasyr 59:9)\n\nNota:\n\nMadinah kekal sebagai pusat perkembangan Islam sehingga kewafatan Nabi SAW pada tahun 11 Hijrah.\n\nSemoga kita meneladani semangat hijrah Nabi untuk kebaikan diri dan agama.",
+    "latency_ms": 35131,
+    "correctness": 0.8061623573303223,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "hijrah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q035",
+    "config": "candidate",
+    "model_answer": "Kitab yang diturunkan kepada Nabi Isa a.s. (\u0639\u064a\u0633\u0649 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645) adalah Injil (\u0627\u0644\u0625\u0646\u062c\u064a\u0644).\n\nFakta Penting tentang Injil:\n\nBahasa Asal:\n\nDiturunkan dalam bahasa Siryani (Syriac/Aramaik), bahasa kaum Nabi Isa.\n\nKandungan Asal:\n\nMengandungi ajaran tauhid, hukum syariat, dan berita gembira tentang kedatangan Nabi Muhammad SAW.\nFirman Allah:\n\n\u201cDan Kami telah memberikan kepadanya (Isa) Injil yang mengandung petunjuk dan cahaya.\u201d\n(Surah Al-Ma\u2019idah 5:46)\n\nPerbezaan dengan Injil Moden:\n\nInjil asal telah hilang dan diubah oleh manusia (tahrif).\nInjil yang wujud hari ini (seperti Bible) bukanlah wahyu asal tetapi catatan pengikut Nabi Isa.\nPengajaran Penting:\nUmat Islam wajib percaya kepada Injil asal sebagai kitab Allah, tetapi tidak mengamalkan kandungannya yang telah diubah.\nNabi Isa hanya diutus untuk Bani Israel, manakala Nabi Muhammad SAW diutus untuk seluruh alam.\n\nRujukan:\n\nSurah Ali Imran 3:48-50\nSurah As-Saff 61:6 (Nabi Isa memberi khabar gembira tentang kedatangan Nabi Muhammad).\n\nSemoga kita istiqamah mengikuti ajaran al-Quran sebagai penyempurna kitab-kitab sebelumnya.",
+    "latency_ms": 34655,
+    "correctness": 0.5137062668800354,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "kitab",
+      "nabi",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q036",
+    "config": "candidate",
+    "model_answer": "Surah yang sering dibaca untuk perlindungan daripada gangguan syaitan adalah:\n\nSurah Al-Falaq (\u0627\u0644\u0641\u0644\u0642)\nSurah An-Nas (\u0627\u0644\u0646\u0627\u0633)\n\nKedua-dua surah ini dikenali sebagai Al-Mu\u2019awwidzatain (\u0627\u0644\u0645\u0639\u0648\u0630\u062a\u064a\u0646) atau \u201cDua Perlindungan\u201d.\n\nDalil dan Kelebihan:\n\nHadis Nabi SAW:\n\n\u201cRasulullah SAW membaca surah Al-Ikhlas, Al-Falaq, dan An-Nas setiap malam ketika hendak tidur, lalu meniupkannya ke telapak tangan dan mengusap seluruh badan.\u201d\n(Riwayat Bukhari, No. 5017)\n\nFirman Allah dalam Surah An-Nas:\n\n\u201cKatakanlah: Aku berlindung kepada Tuhan manusia, Raja manusia\u2026 daripada kejahatan (bisikan) syaitan yang bersembunyi.\u201d\n(Surah An-Nas 114:1-6)\n\nWaktu Dianjurkan Membacanya:\nSebelum tidur \u2013 Untuk perlindungan sepanjang malam.\nSelepas solat \u2013 Terutama solat fardu.\nKetika rasa takut atau was-was \u2013 Sebagai pendinding gangguan syaitan.\n\nTambahan:\n\nSurah Al-Baqarah ayat 285-286 juga sering dibaca untuk menghalau syaitan dari rumah.\n\nAmalkanlah surah-surah ini sebagai zikir harian untuk memohon perlindungan Allah SWT.",
+    "latency_ms": 32266,
+    "correctness": 0.8135172128677368,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "perlindungan",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q037",
+    "config": "candidate",
+    "model_answer": "Nabi yang digelar Khalilullah (\u062e\u0644\u064a\u0644 \u0627\u0644\u0644\u0647 - \u201cKekasih Allah\u201d) adalah Nabi Ibrahim a.s. (\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nFakta Penting Tentang Gelaran Khalilullah:\n\nDalil Al-Quran:\nFirman Allah SWT:\n\n\u0648\u064e\u0627\u062a\u0651\u064e\u062e\u064e\u0630\u064e \u0627\u0644\u0644\u0651\u064e\u0640\u0647\u064f \u0625\u0650\u0628\u0652\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e \u062e\u064e\u0644\u0650\u064a\u0644\u064b\u0627\n\u201cDan Allah menjadikan Ibrahim sebagai kekasih-Nya.\u201d\n(Surah An-Nisa\u2019 4:125)\n\nKeistimewaan Nabi Ibrahim:\n\nBapa para nabi \u2013 Keturunannya meliputi Nabi Ismail, Nabi Ishak, Nabi Yaakub, Nabi Musa, Nabi Daud, Nabi Isa, dan Nabi Muhammad SAW.\nContoh ketauhidan \u2013 Berani menentang penyembahan berhala, termasuk peristiwa menghancurkan patung Raja Namrud.\nUjian besar \u2013 Diperintahkan menyembelih anaknya (Nabi Ismail) sebagai ujian ketaatan.\n\nPerbandingan dengan Gelaran Nabi Muhammad SAW:\n\nNabi Muhammad SAW digelar Habibullah (\u062d\u0628\u064a\u0628 \u0627\u0644\u0644\u0647 - \u201cKekasih Allah\u201d).\nNabi Ibrahim Khalilullah mencerminkan kedudukan khusus dalam keteguhan iman.\nAmalan Berkaitan Nabi Ibrahim:\nSelawat dalam tahiyyat akhir \u2013 Khusus menyebut Nabi Ibrahim dan keluarganya kerana kemuliaannya 1.\nDoa di Maqam Ibrahim \u2013 Ketika haji/umrah.\n\nSabda Nabi SAW:\n\n\u201cSesungguhnya Allah telah menjadikan Ibrahim sebagai kekasih-Nya, dan itu cukup sebagai kemuliaan.\u201d\n(Riwayat Muslim)\n\nSemoga kita meneladani keteguhan iman Nabi Ibrahim a.s. dalam mentauhidkan Allah.",
+    "latency_ms": 38454,
+    "correctness": 0.6911191940307617,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "gelaran",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q038",
+    "config": "candidate",
+    "model_answer": "Solat sunat yang dilakukan dua rakaat sebelum Subuh disebut Solat Sunat Fajar atau Solat Sunat Qabliyah Subuh.\n\nFakta Penting:\n\nKedudukan dalam Islam:\n\nTermasuk dalam solat sunat rawatib mu\u2019akkad (yang sangat dituntut) 1.\nRasulullah SAW sangat menjaga solat ini, sebagaimana sabda Baginda:\n\n\u201cDua rakaat (sebelum) Subuh lebih baik daripada dunia dan segala isinya.\u201d\n(Hadis Riwayat Muslim, no. 725)\n\nWaktu Pelaksanaan:\n\nDilaksanakan setelah masuk waktu Subuh (setelah fajar sidik muncul) tetapi sebelum solat Subuh.\nJika terlepas, boleh diqadha\u2019 selepas Subuh atau ketika matahari terbit.\n\nCara Mengerjakannya:\n\nRingkas (dianjurkan membaca Surah Al-Kafirun pada rakaat pertama dan Surah Al-Ikhlas pada rakaat kedua).\nBoleh juga membaca ayat lain setelah Al-Fatihah.\nPerbezaan dengan Solat Sunat Lain:\nBerbeza dengan Solat Tahajjud (waktunya sebelum fajar sidik).\nBukan Solat Isyraq/Dhuha (waktunya selepas matahari terbit).\n\nNota:\n\nSolat ini termasuk dalam 10 rakaat solat rawatib harian yang disebut dalam hadis 1.\nAmalkan dengan konsisten kerana ganjarannya amat besar.\n\nSemoga kita istiqamah mengerjakan sunnah Nabi SAW ini.",
+    "latency_ms": 34722,
+    "correctness": 0.8719418048858643,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "solat",
+      "sunat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q039",
+    "config": "candidate",
+    "model_answer": "Disclaimer:\n\nThe following response is generated from external web sources. While we strive to provide the accurate and relevant information, please verify with trusted reference. Results may not fully represent official Islamic rulings.\n\nPeristiwa besar yang berlaku pada 17 Ramadan tahun ke-2 Hijrah adalah Perang Badar (\u063a\u0632\u0648\u0629 \u0628\u062f\u0631) dan Nuzul Al-Quran (\u0646\u0632\u0648\u0644 \u0627\u0644\u0642\u0631\u0622\u0646).\n\n1. Perang Badar (\u063a\u0632\u0648\u0629 \u0628\u062f\u0631 \u0627\u0644\u0643\u0628\u0631\u0649)\nPertempuran pertama antara Muslimin (313 orang) dan Musyrikin Quraisy (1,000 orang).\nKemenangan mukjizat bagi Muslimin walaupun jumlah kecil.\nDinamakan \u201cYaum Al-Furqan\u201d (\u064a\u0648\u0645 \u0627\u0644\u0641\u0631\u0642\u0627\u0646) \u2013 Hari pemisah antara hak dan batil.\n(Rujuk: Surah Al-Anfal 8:41)\n2. Nuzul Al-Quran (\u0646\u0632\u0648\u0644 \u0627\u0644\u0642\u0631\u0622\u0646)\nTurunnya wahyu pertama kepada Nabi Muhammad SAW di Gua Hira\u2019 (menurut sebahagian ulama).\nPermulaan kerasulan dan petunjuk Allah untuk manusia.\nKaitan Kedua Peristiwa:\nSebahagian ulama berpendapat 17 Ramadan menggabungkan dua peristiwa agung ini:\nKemenangan kebenaran (Badar)\nTurunnya kebenaran (Al-Quran)\n\nDalil:\n\n\u201cDan (ingatlah) ketika kamu memohon pertolongan kepada Tuhanmu, lalu Dia memperkenankan permohonanmu: \u2018Sesungguhnya Aku akan mendatangkan bala bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.\u2019\u201d\n(Surah Al-Anfal 8:9)\n\nPeringatan Penting:\nUmat Islam disunatkan memperingati Badar dengan:\nMengkaji sejarahnya.\nMenghayati pengajaran keteguhan iman para sahabat.\n\nSemoga kita mengambil iktibar dari peristiwa agung ini.\n\nSumber:\n\nTafsir Ibn Kathir\nKitab Sirah Nabawiyyah oleh Ibn Ishaq",
+    "latency_ms": 46475,
+    "correctness": 0.6743766069412231,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "sejarah",
+      "perang",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q040",
+    "config": "candidate",
+    "model_answer": "Nabi yang terkenal dengan mukjizat tongkat membelah laut adalah Nabi Musa a.s. (\u0645\u0648\u0633\u0649 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nFakta Penting Tentang Mukjizat Ini:\n\nPeristiwa Agung:\n\nAllah SWT memerintahkan Nabi Musa memukul laut dengan tongkatnya, lalu terbelah menjadi 12 jalan kering (Surah Asy-Syu\u2019ara: 63).\nBani Israil selamat menyeberang, sedangkan Firaun dan tentaranya tenggelam.\n\nDalil Al-Quran:\n\n\u201cMaka Kami wahyukan kepada Musa: \u2018Pukullah laut itu dengan tongkatmu!\u2019 Lalu (terbelahlah laut), dan setiap belahan seperti gunung besar.\u201d\n(Surah Asy-Syu\u2019ara: 63)\n\nTongkat Nabi Musa:\n\nAwalnya hanya kayu biasa, menjadi senjata mukjizat atas izin Allah.\nJuga berubah menjadi ular besar untuk mengalahkan ahli sihir Firaun (Surah Thaha: 17-21).\n\nPengajaran:\n\nTanda kekuasaan Allah \u2013 Laut terbelah hanya dengan pukulan tongkat.\nKemenangan orang beriman \u2013 Keajaiban berlaku ketika taat kepada Allah.\nPerbandingan dengan Nabi Lain:\nNabi Sulaiman a.s. \u2013 Memerintah angin dan jin.\nNabi Isa a.s. \u2013 Menghidupkan orang mati.\nNabi Musa a.s. \u2013 Tongkatnya simbol kekuatan ilahi.\n\nSabda Nabi SAW:\n\n\u201cTidak ada nabi setelahku (yang diberi mukjizat) kecuali tongkat Musa dan cincin Sulaiman.\u201d\n(Hadis Riwayat Ahmad)\n\nSemoga kita mengambil iktibar dari keteguhan Nabi Musa a.s. dalam berdakwah.",
+    "latency_ms": 38913,
+    "correctness": 0.8320449590682983,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "mukjizat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q041",
+    "config": "candidate",
+    "model_answer": "Nabi yang dilahirkan tanpa seorang bapa adalah Nabi Isa a.s. (\u0639\u064a\u0633\u0649 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nFakta Penting Tentang Kelahiran Nabi Isa:\n\nMukjizat Kelahiran Tanpa Bapa:\n\nDilahirkan oleh Siti Maryam (\u0645\u0631\u064a\u0645) melalui tiupan roh dari malaikat Jibril (Surah Maryam: 16-22).\nFirman Allah SWT:\n\n\u201cSesungguhnya perbandingan (penciptaan) Isa di sisi Allah seperti (penciptaan) Adam. Allah menciptakan Adam dari tanah, kemudian berfirman: \u2018Jadilah!\u2019 Maka jadilah ia.\u201d\n(Surah Ali Imran: 59)\n\nBukan Anak Allah (Peringatan Aqidah):\n\nIslam menolak dogma Kristian bahawa Isa adalah \u201canak Tuhan\u201d. Beliau hamba dan rasul Allah yang dimuliakan.\n\nKelebihan Lain Nabi Isa a.s.:\n\nBoleh berbicara ketika bayi (Surah Maryam: 30).\nMemiliki mukjizat menyembuhkan orang buta dan menghidupkan burung dari tanah liat (Surah Ali Imran: 49).\nPerbandingan dengan Nabi Adam a.s.:\nNabi Adam: Dicipta tanpa bapa dan ibu.\nNabi Isa: Dicipta tanpa bapa, tetapi mempunyai ibu (Maryam).\n\nPeringatan:\nKisah ini menunjukkan kekuasaan mutlak Allah dalam menciptakan sesuatu di luar hukum alam.\n\nSemoga kita mengimani semua nabi tanpa membezakan seorang pun.",
+    "latency_ms": 34801,
+    "correctness": 0.7236282825469971,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "mukjizat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q042",
+    "config": "candidate",
+    "model_answer": "Surah yang pertama diturunkan dalam al-Quran adalah Surah Al-Alaq (96:1-5).\n\nBukti dan Fakta:\n\nAyat Pertama yang Diturunkan:\n\n\u201cBacalah (wahai Muhammad) dengan nama Tuhanmu yang menciptakan\u2026\u201d (Al-Alaq: 1)\nDiturunkan kepada Nabi SAW di Gua Hira\u2019 melalui Malaikat Jibril.\n\nHadis Sahih:\n\nAisyah RA meriwayatkan:\n\n\u201cWahyu pertama yang diterima Rasulullah SAW adalah mimpi benar. Kemudian, beliau suka menyendiri di Gua Hira\u2019. Lalu datanglah Jibril dengan membawa Surah Al-Alaq.\u201d\n(Riwayat Al-Bukhari, no. 4953)\n\nIsi Kandungan Surah Al-Alaq:\n\nPerintah membaca sebagai simbol ilmu.\nPenegasan tentang keesaan Allah sebagai Pencipta.\nPerbezaan Pendapat Ulama:\n\nSebahagian ulama berpendapat Surah Al-Muddatstsir (74:1-7) adalah wahyu pertama yang memerintahkan dakwah secara terbuka, tetapi Al-Alaq tetap diakui sebagai wahyu pertama secara mutlak.\n\nPenting:\n\nTurunnya Al-Alaq menandai permulaan kenabian Muhammad SAW.\nDibaca dalam konteks Lailatul Qadar (malam kemuliaan).\n\n\u201cAllah mengajar manusia dengan pena (ilmu).\u201d (Al-Alaq: 4) \u2013 Pesan abadi untuk umat Islam.\n\nSemoga kita menghayati wahyu pertama ini dengan mengutamakan ilmu dan ketakwaan.",
+    "latency_ms": 35952,
+    "correctness": 0.7001686096191406,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "wahyu",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q043",
+    "config": "candidate",
+    "model_answer": "Nabi yang terkenal dengan mukjizat melembutkan besi adalah Nabi Daud a.s. (\u062f\u0627\u0648\u062f \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nBukti dan Fakta:\n\nMukjizat Melembutkan Besi\n\nAllah SWT berfirman:\n\n\u201cDan Kami telah melunakkan besi untuknya (Daud).\u201d\n(Surah Saba\u2019 34:10-11)\n\nNabi Daud boleh membentuk besi tanpa dipanaskan atau ditempa, cukup dengan tangannya.\n\nKegunaan Mukjizat Ini:\n\nMembuat baju besi yang kuat untuk perang.\nMenunjukkan kekuasaan Allah yang menguasai segala logam.\n\nKelebihan Lain Nabi Daud:\n\nSuaranya merdu ketika membaca Zabur (Kitab Allah).\nDikurniakan kerajaan dan hikmah.\nPerbandingan dengan Nabi Lain:\nNabi Sulaiman a.s. \u2013 Memerintah jin dan angin.\nNabi Musa a.s. \u2013 Tongkat boleh menjadi ular.\nNabi Daud a.s. \u2013 Besi menjadi lunak di tangannya.\n\nPesan Iman: Mukjizat ini membuktikan Allah SWT memberi kelebihan khusus kepada para nabi-Nya sebagai tanda kebenaran risalah mereka.\n\nSemoga kita mengambil iktibar dari ketakwaan dan kepakaran Nabi Daud a.s.",
+    "latency_ms": 31315,
+    "correctness": 0.7918121814727783,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "mukjizat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q044",
+    "config": "candidate",
+    "model_answer": "Kitab yang diturunkan kepada Nabi Daud a.s. adalah Zabur (\u0627\u0644\u0632\u0651\u064e\u0628\u064f\u0648\u0631).\n\nBukti dan Fakta:\n\nDalil Al-Quran:\n\nFirman Allah SWT:\n\n\u201cDan sesungguhnya telah Kami tulis di dalam Zabur sesudah (Kami tulis dalam) az-Zikr (Lauh Mahfuz), bahawa bumi ini akan diwarisi oleh hamba-hambaKu yang soleh.\u201d\n(Surah Al-Anbiya\u2019: 105)\n\nCiri-ciri Zabur:\n\nBerbentuk syair dan pujian (Mazmur dalam tradisi Yahudi/Kristian).\nMengandungi nasihat, hikmah, dan pengajaran ketuhanan.\n\nPerbezaan dengan Kitab Lain:\n\nTaurat (Nabi Musa) \u2013 Hukum syariat.\nInjil (Nabi Isa) \u2013 Panduan rohani.\nZabur \u2013 Lebih fokus pada zikir dan hikmah.\n\nPenting:\n\nZabur tidak mengandungi hukum baru, tetapi mengukuhkan ajaran sebelumnya.\nNabi Daud juga dikurniakan suara merdu ketika melantunkan Zabur.\n\nSemoga kita menghormati semua kitab Allah yang diturunkan kepada para nabi.",
+    "latency_ms": 28040,
+    "correctness": 0.7275207042694092,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "kitab",
+      "nabi",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q045",
+    "config": "candidate",
+    "model_answer": "Peristiwa hijrah Nabi Muhammad SAW yang menjadi asas kalendar Islam adalah Hijrah dari Makkah ke Madinah (Yathrib).\n\nButiran Penting:\n\nTarikh dan Kronologi:\n\nBerlaku pada tahun 622M (12 Rabiulawal tahun 1 Hijrah).\nNabi SAW berhijrah bersama Abu Bakar al-Siddiq RA setelah 13 tahun berdakwah di Makkah.\n\nSebab Hijrah:\n\nTekanan dan ancaman quraisy Makkah.\nUndangan penduduk Yathrib (kemudian dinamakan Madinah al-Munawwarah) untuk menjadi pemimpin.\n\nKepentingan dalam Takwim Islam:\n\nKhalifah Umar al-Khattab RA menetapkan peristiwa ini sebagai permulaan kalendar Hijrah pada tahun ke-17 Hijrah.\nMenandakan permulaan negara Islam pertama di bawah pimpinan Nabi SAW.\nPengajaran dari Hijrah:\nPengorbanan untuk agama Allah.\nPerpaduan antara Muhajirin (orang Islam Makkah) dan Ansar (penduduk Madinah).\n\n\u201cSesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta dan jiwa pada jalan Allah, mereka itulah orang-orang yang mendapat kemenangan.\u201d\n(Surah Al-Anfal: 72)\n\nSemoga kita meneladani semangat hijrah dalam meninggalkan maksiat dan beramal soleh.",
+    "latency_ms": 33712,
+    "correctness": 0.8341842889785767,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "hijrah",
+      "sejarah",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q046",
+    "config": "candidate",
+    "model_answer": "Surah yang sering dibaca bersama Surah Al-Falaq untuk perlindungan adalah Surah An-Nas (\u0633\u0648\u0631\u0629 \u0627\u0644\u0646\u0627\u0633).\n\nBukti dan Fakta:\n\nGabungan Dalam Hadis Nabi SAW:\n\nKedua-dua surah ini disebut \u201cAl-Mu\u2019awwidzatain\u201d (Dua Pelindung) kerana sering dibaca bersama untuk memohon perlindungan Allah SWT.\nContoh:\n\n\u201cRasulullah SAW membaca Surah Al-Ikhlas, Al-Falaq, dan An-Nas ketika hendak tidur, lalu meniupkannya pada tapak tangan dan menyapukan ke seluruh badan.\u201d\n(Riwayat Al-Bukhari, no. 5017)\n\nFungsi Perlindungan:\n\nSurah Al-Falaq \u2013 Melindungi dari kejahatan luar (sihir, hasad, dll).\nSurah An-Nas \u2013 Melindungi dari gangguan dalaman (bisikan syaitan & was-was).\n\nAmalan Harian:\n\nWaktu Pagi/Petang:\nDibaca 3x seperti dalam hadis:\n\n\u201cCukuplah bacaan \u2018Qul Huwallahu Ahad\u2019 (Al-Ikhlas), \u2018Qul A\u2019udzu birabbil Falaq\u2019 (Al-Falaq), dan \u2018Qul A\u2019udzu birabbin Nas\u2019 (An-Nas) setiap pagi & petang untuk melindungi dirimu.\u201d\n(Riwayat Abu Daud, no. 5082)\n\nSebelum Tidur:\nDianjurkan membaca 3 surah ini lalu meniup ke tangan dan menyapu badan.\n\nPenting:\n\nKedua surah ini diturunkan secara khusus sebagai perlindungan (disebut dalam hadis riwayat Al-Tirmizi).\nLengkapkan dengan Surah Al-Ikhlas untuk tambahan kelebihan (setara 1/3 Al-Quran).\n\n\u201cMintalah perlindungan kepada Allah dengan membaca Al-Mu\u2019awwidzatain, kerana tiada sesuatu pun yang dapat menandinginya.\u201d\n(Riwayat An-Nasa\u2019i)\n\n\u2705 Amalkan setiap hari untuk benteng diri!",
+    "latency_ms": 48269,
+    "correctness": 0.7598881721496582,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "perlindungan",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q047",
+    "config": "candidate",
+    "model_answer": "Nabi yang terkenal dengan kesabaran menghadapi ujian berat adalah Nabi Ayyub a.s. (\u0623\u064a\u0651\u0648\u0628 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nBukti & Kisah Kesabarannya:\n\nUjian Berat:\n\nKehilangan harta, anak-anak, dan kesihatan (ditimpa penyakit kulit bertahun-tahun).\nTetap sabar dan berzikir kepada Allah SWT.\n\nFirman Allah dalam Al-Quran:\n\n\u201cSesungguhnya Kami dapati dia (Ayyub) seorang yang sabar. Dialah sebaik-baik hamba. Sesungguhnya dia sangat taat (kepada Allah).\u201d\n(Surah Sad: 44)\n\nPuncak Ujian:\n\nIsterinya sendiri hampir putus asa, namun Nabi Ayyub berdoa:\n\n\u201cSesungguhnya aku telah ditimpa penyakit, dan Engkau adalah Tuhan Yang Maha Penyayang.\u201d\n(Surah Al-Anbiya\u2019: 83)\n\nKemenangan Atas Ujian:\n\nAllah SWT menyembuhkannya dan mengembalikan keluarganya serta harta yang lebih banyak.\nPengajaran:\nKesabaran Nabi Ayyub tanpa mengeluh menjadi contoh tertinggi.\nAllah tidak menguji hamba-Nya melainkan sesuai kemampuannya.\n\n\u201cDan Kami uji kamu dengan kesusahan dan kesenangan sebagai cubaan, dan kepada Kamilah kamu dikembalikan.\u201d\n(Surah Al-Anbiya\u2019: 35)\n\n\u2705 Ambil iktibar: Ujian adalah ujian, tetapi kesabaran adalah kunci kejayaan dunia dan akhirat.",
+    "latency_ms": 34893,
+    "correctness": 0.6956090331077576,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "sabar",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q048",
+    "config": "candidate",
+    "model_answer": "Peristiwa besar yang berlaku pada 10 Muharram (Hari Asyura) adalah:\n\n1. Selamatnya Nabi Musa a.s. dan Bani Israel dari Firaun\nAllah SWT menyelamatkan Nabi Musa a.s. dan pengikutnya dengan membelah Laut Merah, lalu menenggelamkan Firaun dan tentera mereka.\nDisebut dalam hadis:\n\n\u201cNabi SAW tiba di Madinah dan melihat orang Yahudi berpuasa pada hari Asyura. Baginda bersabda: \u2018Puasa ini lebih layak untuk kami (umat Islam) kerana ia adalah hari Allah menyelamatkan Musa dan menenggelamkan Firaun.\u2019\u201d\n(Riwayat Muslim)\n\n2. Nabi Nuh a.s. dan Bahtera Selamat Dari Banjir Besar\nKapal Nabi Nuh a.s. berlabuh dengan selamat di bukit Judiy setelah banjir besar surut.\n3. Taubat Nabi Adam a.s. Diterima Allah\nPada 10 Muharram, Allah SWT menerima taubat Nabi Adam a.s. setelah diturunkan ke bumi.\n4. Tragedi Karbala (61H) \u2013 Syahidnya Sayidina Husain r.a.\nCucu Rasulullah SAW, Sayidina Husain bin Ali r.a., syahid dibunuh tentera Yazid bin Muawiyah di Karbala.\nWalaupun bukan sumber utama Islam (kerana berlaku selepas zaman Nabi), ia diingati oleh sebahagian Muslim sebagai hari dukacita.\nAmalan Sunah Pada 10 Muharram:\n\n\u2714 Berpuasa (9 & 10 Muharram) \u2013 Menghapus dosa setahun lalu.\n\u2714 Bersedekah dan meluaskan rezeki keluarga.\n\u2714 Memperbanyakkan zikir & selawat.\n\nPenting:\n\nIslam menekankan kesyukuran (atas kemenangan para Nabi) bukan kesedihan.\nElakkan amalan bid\u2019ah seperti melukis darah atau menyakiti diri.\n\n\u201cBarangsiapa berpuasa pada hari Asyura, Allah akan menghapuskan dosanya setahun yang lalu.\u201d\n(Riwayat Muslim)\n\n\u2705 Sambut dengan ibadah, bukan ritual yang tidak diajar Nabi SAW!",
+    "latency_ms": 47192,
+    "correctness": 0.8007463216781616,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "sejarah",
+      "asyura",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q049",
+    "config": "candidate",
+    "model_answer": "Nabi yang dikurniakan kelebihan menafsirkan mimpi dengan izin Allah adalah Nabi Yusuf a.s. (\u064a\u0648\u0633\u0641 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645).\n\nBukti dari Al-Quran:\n\nKisah Nabi Yusuf dalam Surah Yusuf:\n\nAllah SWT berfirman:\n\n\u201cWahai anakku! Janganlah engkau ceritakan mimpimu kepada saudara-saudaramu, nanti mereka menjalankan rancangan (yang membahayakanmu). Sesungguhnya syaitan itu musuh yang nyata bagi manusia.\u201d\n(Surah Yusuf: 5)\n\nAyat ini merujuk kepada mimpi Nabi Yusuf melihat 11 bintang, matahari, dan bulan sujud kepadanya (ramalan beliau menjadi nabi).\n\nKemahiran menafsir mimpi:\nNabi Yusuf menafsirkan mimpi raja Mesir tentang 7 lembu gemuk & 7 lembu kurus (tahun subur & kemarau) serta mimpi dua tahanan (Surah Yusuf: 36-49).\n\nPengiktirafan Allah SWT:\n\n\u201cWahai Tuhanku! Sesungguhnya Engkau telah mengurniakan daku sebahagian dari kekuasaan (pemerintahan) dan mengajarku sebahagian dari ilmu tafsiran mimpi.\u201d\n(Surah Yusuf: 101)\n\nPerbezaan dengan Nabi Lain:\nNabi Muhammad SAW juga menerima mimpi benar (sebahagian wahyu), tetapi Nabi Yusuf a.s. secara khusus dikurniakan ilmu takwil mimpi untuk orang lain.\nMimpi para nabi lain (Ibrahim, Ismail) bersifat perintah Allah, bukan tafsiran untuk manusia.\nPengajaran:\nHanya mimpi para nabi yang dijamin benar (wahyu).\nMimpi orang biasa bukan hujah syarie kecuali jika selari dengan hukum Islam.\nElakkan bergantung pada tafsiran mimpi tanpa sandaran Al-Quran/Sunnah.\n\n\u2705 Amalkan doa selepas mimpi buruk:\n\u201cA\u2019udzu billahi min syarrillahi wa syarrir ru\u2019ya\u201d\n(\u201cAku berlindung kepada Allah dari kejahatan mimpi ini\u201d).\n\n\u201cMimpi baik dari Allah, mimpi buruk dari syaitan. Siapa yang lihat mimpinya menakutkan, jangan ceritakan dan mohonlah perlindungan Allah.\u201d\n(Hadis Riwayat Bukhari)",
+    "latency_ms": 47903,
+    "correctness": 0.8360608816146851,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nabi",
+      "mukjizat",
+      "asas"
+    ]
+  },
+  {
+    "run_id": "candidate_1762378481",
+    "id": "q050",
+    "config": "candidate",
+    "model_answer": "Surah yang mengandungi Ayat Kursi adalah Surah Al-Baqarah (Surah ke-2 dalam Al-Quran), Ayat ke-255.\n\nFakta Penting tentang Ayat Kursi:\n\nKandungan Utama:\n\nMenjelaskan kekuasaan mutlak Allah SWT sebagai Pemilik langit dan bumi.\nMenegaskan sifat-Nya:\nAl-Hayyu (Yang Hidup Kekal)\nAl-Qayyum (Yang Berdiri Sendiri)\nTidak mengantuk dan tidak tidur\n\nKeistimewaan Ayat Kursi:\n\nDisebut sebagai \u201cpenghulu ayat Al-Quran\u201d (Hadis Riwayat Tirmidzi).\nPelindung dari syaitan jika dibaca sebelum tidur (Hadis Riwayat Bukhari).\nSyarat masuk syurga jika dibaca selepas setiap solat (Hadis Riwayat An-Nasa\u2019i).\n\nTeks Ayat Kursi:\n\n\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0644\u064e\u0627 \u0625\u0650\u0644\u064e\u0670\u0647\u064e \u0625\u0650\u0644\u0651\u064e\u0627 \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u062d\u064e\u064a\u0651\u064f \u0627\u0644\u0652\u0642\u064e\u064a\u0651\u064f\u0648\u0645\u064f \u06da \u0644\u064e\u0627 \u062a\u064e\u0623\u0652\u062e\u064f\u0630\u064f\u0647\u064f \u0633\u0650\u0646\u064e\u0629\u064c \u0648\u064e\u0644\u064e\u0627 \u0646\u064e\u0648\u0652\u0645\u064c \u06da \u0644\u0651\u064e\u0647\u064f \u0645\u064e\u0627 \u0641\u0650\u064a \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0648\u064e\u0627\u062a\u0650 \u0648\u064e\u0645\u064e\u0627 \u0641\u0650\u064a \u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u0650 \u06d7 \u0645\u064e\u0646 \u0630\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a \u064a\u064e\u0634\u0652\u0641\u064e\u0639\u064f \u0639\u0650\u0646\u062f\u064e\u0647\u064f \u0625\u0650\u0644\u0651\u064e\u0627 \u0628\u0650\u0625\u0650\u0630\u0652\u0646\u0650\u0647\u0650 \u06da \u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e \u0623\u064e\u064a\u0652\u062f\u0650\u064a\u0647\u0650\u0645\u0652 \u0648\u064e\u0645\u064e\u0627 \u062e\u064e\u0644\u0652\u0641\u064e\u0647\u064f\u0645\u0652 \u06d6 \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u062d\u0650\u064a\u0637\u064f\u0648\u0646\u064e \u0628\u0650\u0634\u064e\u064a\u0652\u0621\u064d \u0645\u0651\u0650\u0646\u0652 \u0639\u0650\u0644\u0652\u0645\u0650\u0647\u0650 \u0625\u0650\u0644\u0651\u064e\u0627 \u0628\u0650\u0645\u064e\u0627 \u0634\u064e\u0627\u0621\u064e \u06da \u0648\u064e\u0633\u0650\u0639\u064e \u0643\u064f\u0631\u0652\u0633\u0650\u064a\u0651\u064f\u0647\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0648\u064e\u0627\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u064e \u06d6 \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0626\u064f\u0648\u062f\u064f\u0647\u064f \u062d\u0650\u0641\u0652\u0638\u064f\u0647\u064f\u0645\u064e\u0627 \u06da \u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0651\u064f \u0627\u0644\u0652\u0639\u064e\u0638\u0650\u064a\u0645\u064f\n(Surah Al-Baqarah 2:255)\n\nAmalan Sunnah:\n\n\u2714 Baca selepas setiap solat fardhu (terutama maghrib & subuh).\n\u2714 Baca sebelum tidur untuk perlindungan dari gangguan syaitan.\n\u2714 Hafal dan ajarkan kepada anak-anak sebagai benteng akidah.\n\n\u2705 Ayat Kursi adalah \u2018kunci syurga\u2019 dan perisai hidup!\n\u201cSesiapa membaca Ayat Kursi selepas solat, tiada penghalang baginya masuk syurga kecuali maut.\u201d\n(Hadis Riwayat An-Nasa\u2019i)",
+    "latency_ms": 42556,
+    "correctness": 0.7497112154960632,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "al-quran",
+      "ayat_kursi",
+      "asas"
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "run_id": "prod_1762383237",
+    "id": "b001",
+    "config": "prod",
+    "model_answer": "Berdasarkan sumber fatwa Malaysia, terdapat perbezaan pandangan mengenai pemberian zakat kepada bukan Muslim. Berikut adalah penjelasannya:\n\nPandangan Umum: Majoriti fuqaha berpendapat zakat hanya untuk Muslim berdasarkan dalil Surah At-Taubah ayat 60 yang menyenaraikan 8 asnaf penerima zakat (termasuk muallaf tetapi tidak menyebut bukan Islam secara jelas)13.\n\nPengecualian untuk Muallaf:\n\nFatwa Perlis membenarkan zakat kepada bukan Muslim bawah asnaf \u2018muallafah qulubuhum\u2019 (golongan yang ingin diharmonikan hubungan dengan Islam) dengan syarat:\nAtas dasar kemaslahatan yang ditentukan oleh pemerintah\nBerdasarkan precedent Rasulullah SAW yang pernah memberikan zakat kepada pembesar bukan Muslim untuk menarik simpati mereka terhadap Islam3.\n\nSyarat Ketat:\n\nFatwa Pulau Pinang menegaskan bahawa dana zakat tidak boleh diberikan kepada bukan Islam kecuali melalui sumber lain (bukan dari wang zakat)1.\nPeruntukan ini biasanya terhad untuk tujuan dakwah atau mengelakkan mudarat kepada umat Islam.\n\nKontek Pentadbiran Moden:\n\nBeberapa negara membenarkan bentuk bantuan sosial kepada bukan Muslim melalui mekanisme lain (seperti baitulmal am/bukan zakat) untuk menjaga keharmonian masyarakat pelbagai agama.\n\nKesimpulan: Kebenaran terhad ini berdasarkan interpretasi sirah Nabi dan konsep maslahah (kepentingan umum) dalam fiqh, bukannya kelonggaran terhadap prinsip asal zakat35.",
+    "latency_ms": 43533,
+    "correctness": 0.8090296983718872,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "zakat",
+      "fiqh",
+      "lokasi"
+    ]
+  },
+  {
+    "run_id": "prod_1762383237",
+    "id": "b002",
+    "config": "prod",
+    "model_answer": "Perbezaan pendapat antara Mazhab Maliki dan Syafi\u2019i mengenai hukum wanita haid membaca al-Quran berpunca dari interpretasi berbeza terhadap dalil-dalil syarak. Berikut penjelasannya:\n\n1. Mazhab Syafi\u2019i (Larangan Membaca al-Quran)\n\nDalil Utama:\n\nBerpegang pada hadis yang diriwayatkan oleh Ibnu Umar RA:\n\u201cTidak dibolehkan wanita haid dan orang yang junub membaca walau sedikit dari al-Quran.\u201d (Riwayat al-Tirmizi, dinilai dhaif oleh sebahagian ulama tetapi diamalkan oleh Syafi\u2019iyyah)2.\nQiyas: Wanita haid dianggap serupa dengan orang junub yang dilarang menyentuh/membaca al-Quran tanpa wudhu.\n\nKetetapan Hukum:\n\nHaram membaca al-Quran secara langsung (termasuk memegang mushaf) kerana status hadas besar.\nHanya dibenarkan membaca secara hati atau melihat mushaf tanpa menyentuhnya12.\n2. Mazhab Maliki (Kebolehan Membaca al-Quran)\n\nDalil Utama:\n\nTiada dalil qat\u2019i (pasti) yang melarang wanita haid membaca al-Quran. Hadis larangan dianggap dhaif (lemah).\nKeperluan praktikal: Tempoh haid yang panjang (biasanya 5-7 hari) boleh menyukarkan penghafazan atau pembelajaran al-Quran, terutama bagi pelajar tahfiz.\n\nKelonggaran:\n\nDibenarkan membaca al-Quran tanpa menyentuh mushaf jika untuk tujuan pembelajaran, hafazan, atau ibadah seperti zikir2.\nPendapat ini juga disokong oleh Imam Bukhari, Ibn Taimiyyah, dan ulama kontemporari seperti Syeikh Uthaimin.\nPerbandingan Pendapat\nAspek\tMazhab Syafi\u2019i\tMazhab Maliki\nStatus Hukum\tHaram (kecuali dalam hati)\tHarus (dengan syarat tertentu)\nDalil\tHadis dhaif + qiyas dengan orang junub\tTiada larangan jelas + maslahah pembelajaran\nKonteks Kelonggaran\tTiada\tDibolehkan jika ada keperluan (hafazan, dll)\nKesimpulan\n\nPerbezaan ini timbul kerana:\n\nMetodologi pengambilan hukum: Syafi\u2019i lebih ketat dalam menjaga kesucian al-Quran, manakala Maliki memberi keutamaan kepada kemudahan umat.\nPenilaian dalil: Syafi\u2019i mengamalkan hadis dhaif sebagai hujah sekunder, sedangkan Maliki menolaknya jika bercanggah dengan maslahah.\n\nCadangan:\n\nWanita haid boleh memilih pendapat yang lebih sesuai dengan keperluannya (contoh: mengutamakan pendapat Maliki jika dalam program tahfiz).\nAlternatif lain: Mendengar bacaan al-Quran melalui audio atau membaca terjemahan2.\n\nRujukan:\n\n1 (Hukum memegang mushaf)\n2 (Keluwesan membaca",
+    "latency_ms": 65908,
+    "correctness": 0.8322767615318298,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "haid",
+      "al-quran",
+      "mazhab"
+    ]
+  },
+  {
+    "run_id": "prod_1762383237",
+    "id": "b003",
+    "config": "prod",
+    "model_answer": "Perbezaan pendapat antara Mazhab Hanafi dan Mazhab Syafi\u2019i mengenai kewajiban wali dalam pernikahan wanita berpunca dari interpretasi yang berbeza terhadap dalil-dalil syarak. Berikut penjelasannya:\n\n1. Mazhab Hanafi (Membenarkan Nikah Tanpa Wali)\n\nDalil Utama:\n\nBerpegang pada hadis riwayat Aisyah RA yang menyatakan Rasulullah SAW bersabda:\n\u201cSeorang janda lebih berhak atas dirinya daripada walinya.\u201d (HR. Muslim).\nWanita baligh dan berakal dianggap mampu membuat keputusan sendiri dalam urusan pernikahan.\n\nSyarat Kelonggaran:\n\nHanya dibenarkan untuk wanita yang sudah baligh, berakal, dan pernah berkahwin (janda).\nJika wanita tersebut masih gadis, nikah tanpa wali tetap tidak sah menurut Hanafi.\n2. Mazhab Syafi\u2019i (Wajib Ada Wali)\n\nDalil Utama:\n\nBerdasarkan hadis Nabi SAW:\n\u201cTidak sah nikah melainkan dengan wali.\u201d (HR. Abu Daud, Tirmidzi).\nQiyas: Wanita dianggap perlu perlindungan dalam urusan besar seperti pernikahan.\n\nHukum Tetap:\n\nTidak sah nikah wanita (gadis/janda) tanpa wali, kerana wali merupakan salah satu rukun nikah.\nWali harus lelaki Muslim, baligh, berakal, adil, dan dari kalangan keluarga terdekat (bapa, datuk, saudara lelaki, dll).\nPerbezaan Utama\nAspek\tMazhab Hanafi\tMazhab Syafi\u2019i\nKelayakan\tJanda boleh nikah sendiri\tGadis & janda wajib ada wali\nHukum\tSah (jika janda)\tTidak sah tanpa wali\nSebab Kelonggaran\tHak autonomi wanita\tPerlindungan & menjaga maruah\nKesimpulan\nMazhab Hanafi lebih memberikan kebebasan kepada wanita yang sudah berpengalaman (janda).\nMazhab Syafi\u2019i lebih ketat demi memastikan kesahihan akad dan menjaga maslahah keluarga.\n\nCadangan:\n\nWanita yang ingin berkahwin sebaiknya merujuk pihak berkuasa agama mengikut mazhab yang diamalkan di negara masing-masing.\nJika wali enggan tanpa sebab syarie, boleh dirujuk kepada wali hakim (pengganti yang dilantik kerajaan).\n\nUntuk kepastian hukum, sila rujuk pejabat mufti atau jabatan agama setempat.",
+    "latency_ms": 54835,
+    "correctness": 0.7693045139312744,
+    "correct_pass": false,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "nikah",
+      "wali",
+      "mazhab"
+    ]
+  },
+  {
+    "run_id": "prod_1762383237",
+    "id": "b004",
+    "config": "prod",
+    "model_answer": "Perbezaan pendapat antara Mazhab Syafi\u2019i dan Mazhab Hanafi mengenai hukum sentuhan berlapik yang membatalkan wudhu\u2019 berpunca dari perbezaan interpretasi dalil dan metodologi fiqh. Berikut analisis terperinci:\n\n1. Mazhab Syafi\u2019i (Sentuhan Berlapik Tetap Membatalkan Wuduk)\n\nDalil Utama:\n\nBerpegang pada zahir ayat Surah al-Ma\u2019idah (6):\n\u201c\u0623\u064e\u0648\u0652 \u0644\u064e\u0670\u0645\u064e\u0633\u0652\u062a\u064f\u0645\u064f \u0671\u0644\u0646\u0650\u0651\u0633\u064e\u0622\u0621\u064e\u201d (atau kamu menyentuh perempuan).\nImam Syafi\u2019i menafsirkan \u201clamastum\u201d secara mutlak (termasuk sentuhan dengan/tanpa lapik).\nHadis Nabi SAW:\n\u201cSesiapa yang menyentuh kemaluannya, maka hendaklah dia berwudhu\u2019.\u201d (HR. Ahmad, Abu Daud).\nQiyas: Sentuhan kulit (langsung/tidak) dianggap sama kesannya.\n\nKetetapan Hukum:\n\nBatal wudhu\u2019 jika menyentuh perempuan ajnabi (bukan mahram) walaupun dengan lapik (contoh: sarung tangan, kain).\nPengecualian: Sentuhan suami-isteri tanpa syahwat tidak batal (berdasarkan pendapat lemah dalam mazhab).\n2. Mazhab Hanafi (Sentuhan Berlapik Tidak Membatalkan Wuduk)\n\nDalil Utama:\n\nTafsiran kontekstual ayat \u201clamastum\u201d:\nHanafi mentakrifkannya sebagai sentuhan dengan syahwat atau bersetubuh (bukan sentuhan fizikal semata-mata).\nHadis Aisyah RA:\n\u201cRasulullah SAW pernah mencium isterinya kemudian solat tanpa memperbaharui wudhu\u2019.\u201d (HR. Muslim).\nIni menunjukkan sentuhan biasa tidak membatalkan wudhu\u2019.\n\nKelonggaran:\n\nTidak batal wudhu\u2019 jika sentuhan dilakukan dengan lapik (contoh: memegang tangan wanita ajnabi dengan sarung tangan).\nBatal hanya jika sentuhan langsung kulit ke kulit disertai syahwat.\nPerbandingan Utama\nAspek\tMazhab Syafi\u2019i\tMazhab Hanafi\nTafsiran Ayat\tZahir ayat (semua sentuhan)\tKontekstual (hanya sentuhan syahwat)\nHukum Sentuhan Berlapik\tBatal\tTidak batal\nSebab Perbezaan\tMenjaga kesucian wudhu\u2019 secara ketat\tMemudahkan umat dengan konsep bersifatani\nPunca Perbezaan\n\nMetodologi Istinbat Hukum:\n\nSyafi\u2019i: Literal tekstual (berpegang pada zahir ayat).\nHanafi: Maqasid syariah (melihat tujuan sebenar larangan).\n\nKonsep \u201cMubasyarah\u201d (Sentuhan):\n\nSyafi\u2019i: Sentuhan = fizikal semata-mata.\nHanafi: Sentuhan = mesti ada unsur syahwat.\nKesimpulan\nSyafi\u2019i: Lebih berhati-hati dalam menjaga kesahihan ibadah, terutama solat.\nHanafi: Lebih fleksibel berdasarkan realiti sosial dan kemudahan.\n\nCadangan:\n\nUmat Islam boleh mengikut mana-mana mazhab **berdasark",
+    "latency_ms": 67511,
+    "correctness": 0.783331036567688,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "wuduk",
+      "mazhab",
+      "fiqh"
+    ]
+  },
+  {
+    "run_id": "prod_1762383237",
+    "id": "b005",
+    "config": "prod",
+    "model_answer": "Perbezaan pendapat antara mazhab Syafi\u2019i dengan Hanafi dan Maliki mengenai kewajipan membaca al-Fatihah bagi makmum dalam solat berjemaah berpunca dari interpretasi yang berbeza terhadap dalil-dalil syarak. Berikut penjelasan terperinci:\n\n1. Mazhab Syafi\u2019i (Wajib Baca al-Fatihah)\n\nDalil Utama:\n\nBerdasarkan hadis Nabi SAW:\n\u201cTidak sah solat bagi orang yang tidak membaca al-Fatihah.\u201d (HR. Bukhari & Muslim)\nHadis lain:\n\u201cSolat tidak cukup bagi sesiapa yang tidak membaca Fatihah al-Kitab.\u201d (HR. Daruqutni)\n\nHujah:\n\nMembaca al-Fatihah adalah rukun qauli (rukun bacaan) yang wajib dilaksanakan oleh setiap individu.\nImam Nawawi menjelaskan bahawa bacaan imam tidak menggantikan bacaan makmum.\n\nKaedah Pelaksanaan:\n\nMakmum wajib membaca al-Fatihah secara senyap ketika imam membaca ayat lain.\nJika tidak sempat, boleh dibaca ketika imam diam selepas Fatihah (saktah) atau ketika rukuk.\n2. Mazhab Hanafi (Tidak Wajib Baca al-Fatihah)\n\nDalil Utama:\n\nBerdasarkan ayat al-Quran:\n\u201cDan apabila dibacakan al-Quran, maka dengarlah dan diamlah.\u201d (Surah al-A\u2019raf: 204)\nHadis Nabi SAW:\n\u201cSesiapa yang solat di belakang imam, maka bacaan imam adalah bacaan baginya.\u201d (HR. Ibnu Majah)\n\nHujah:\n\nMakmum hanya perlu mendengar bacaan imam.\nBacaan imam mencukupi untuk makmum.\n3. Mazhab Maliki (Tidak Wajib Baca al-Fatihah)\n\nDalil Utama:\n\nHadis yang sama digunakan oleh Hanafi.\nPenekanan pada konsep mengikut imam sepenuhnya.\n\nHujah:\n\nMembaca al-Fatihah ketika imam membaca boleh mengganggu kekhusyukan makmum.\nNamun, sunat membacanya dalam solat sirriyyah (solat perlahan).\nPerbandingan Utama\nAspek\tMazhab Syafi\u2019i\tMazhab Hanafi\tMazhab Maliki\nHukum\tWajib baca al-Fatihah\tTidak wajib (makruh tahrim)\tTidak wajib (sunat dalam solat sirriyyah)\nDalil\tHadis kesahihan solat\tAyat perintah mendengar bacaan imam\tKonsep ittiba\u2019 (ikut imam sepenuhnya)\nPraktikal\tBaca senyap ketika imam baca surah\tDiam sepenuhnya\tDiam dalam jahriyyah, sunat baca dalam sirriyyah\nPunca Perbezaan Pendapat\n\nMetodologi Pengambilan Hukum\n\nSyafi\u2019i: Literal tekstual (berpegang pada zahir hadis).\nHanafi/Maliki: Maqasid syariah (menilai tujuan ibadah berjemaah).\n\nPenekanan Konsep Solat Berjemaah\n\nSyafi\u2019i: Solat tetap bersifat individu walaupun berjemaah.",
+    "latency_ms": 66531,
+    "correctness": 0.8210588693618774,
+    "correct_pass": true,
+    "relevance": 1.0,
+    "safety_flags": [],
+    "safety_violation_count": 0,
+    "tags": [
+      "solat",
+      "al-fatihah",
+      "mazhab"
+    ]
+  }
+]
