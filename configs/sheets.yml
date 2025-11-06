@@ -1,5 +1,5 @@
 sheets:
-  sheet_id: "USE YOUR GOOGLE SHEETS ID HERE"
+  sheet_id: "INPUT GOOGLE SHEET ID HERE"
   tabs:
     runs: "Runs"
     per_item: "PerItem"
