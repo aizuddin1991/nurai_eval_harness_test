@@ -30,7 +30,7 @@ git clone https://github.com/aizuddin1991/nurai_eval_harness_test.git
 ```
 2. Prepare python dependencies
 ```bash
-pip install -r requirements.
+pip install -r requirements.txt
 playwright install
 ```
 
